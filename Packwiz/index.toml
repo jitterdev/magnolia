@@ -58,7 +58,7 @@ hash = "0c1faeea67f5ea93fc58f5ba6ca6381e48e727a0cb1a5be08a2441edeb7d934f"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "44cb939f586e5a01d5ca68dc7652e2c0ede06942e22757fe81792da9f0543f2e"
+hash = "3d7e56757489d78f3a4956ec9dd642d2e57ebc00f5ebebc95595221ea1d308e1"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -81,6 +81,10 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/Perlinescent v0.28.4.zip"
+hash = "1baf7c1df2a8343dc405417d96372d8783a0c9a71134005acbdce5a3161fa525"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/big_weapons.json"
 hash = "5649bc423ebd90e1393f2960c2cf93623323d2deea29ad4bd8f42849384ca763"
 
@@ -91,6 +95,62 @@ hash = "60c217fe0e9cb72cef8fcb2b51cfa84fd284fd06f9ace65470a71881d8eecaeb"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/shields.json"
 hash = "1e2ab136595f40353c0b4434a031f08fafe519cb0c298225c3ef0c0fd234f6c5"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_allium.json"
+hash = "32279c91cf073b35c4a814f538cf8658d017207f2008874c7d1162cb810e2c03"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_azure_bluet.json"
+hash = "5a3b0e2654c2614be4a7de721c87078d133d5b28be7308349ebf7f48a9c47a5b"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_blue_orchid.json"
+hash = "92e69780967c2d8ecdf5dd4026160f040857f2b607ef280757d27a2f1aebe62e"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_cornflower.json"
+hash = "ed8c8c4e998920703a7a1f939c20f447708eb1f3cf452ce4b976906f34f17aba"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_dandelion.json"
+hash = "49ed43b663ab4f06467e38f36ac3363225899d214ec177e098396111149adab7"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_lily.json"
+hash = "96b5c6a4aa560eba45acb4662f62ea7fb6d5040805486ad4f7f4b2d980c02481"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_orange_tulip.json"
+hash = "207d266c74bc46e1d94b77d701b15d637d4541231908fd64357f1786ecc14336"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_oxeye_daisy.json"
+hash = "b2bd4ccbb49c5fceaec8404e88f46e4d8b222e604367aa521e8fdf6694604785"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_pink_tulip.json"
+hash = "28e5c495037c17981baca00e7f22191f59618cbf8134c9ec44c295b19d62e391"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_poppy.json"
+hash = "ded0d8e1353472deb1f6c778662f765e4bcaa2844ada5954bdde5c661b023b0a"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_red_tulip.json"
+hash = "adf74e0dd2ce32bf3ba8f4d66a92289b833831fe1d1862d7fa1f31a4c76f60c5"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_torchflower.json"
+hash = "7cdfc3e5f31d41d18eaee5aa3440c5f77d458186395d42ac9a1de833a7906366"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_white_tulip.json"
+hash = "770b845d863b270fcc3b1ffc3d510b56b1ead6828fd76b8dd08204f899968360"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_wither_rose.json"
+hash = "4d41fff43a1e5dc199d604b03fe0253784bf267542e8b8d8711e96a1c39d760f"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/enchantment/aqua_affinity.json"
@@ -1274,11 +1334,6 @@ hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
-file = "mods/perlinescent-caves.pw.toml"
-hash = "b54e63a1be9306f709b0c142cb066c2c32816f094d4d8b73d1b9a6560b9154c4"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "39e64d09b38318d84cfc9415d1f1184d712c066c043369f708c45d592d0eb874"
 metafile = true
@@ -1451,11 +1506,6 @@ metafile = true
 [[files]]
 file = "mods/splasher.pw.toml"
 hash = "2023c4d7ac03cc657f303642f890a645a1db07a26b0b046416e2f6ecda88c29b"
-metafile = true
-
-[[files]]
-file = "mods/steep-surface-fix.pw.toml"
-hash = "36b28bb6cc09a13632ee75283071f4fbda59ee56815099f313fc9d81d6fe5d02"
 metafile = true
 
 [[files]]
