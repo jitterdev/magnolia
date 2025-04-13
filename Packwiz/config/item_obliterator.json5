@@ -18,8 +18,10 @@
   "blacklisted_items": [
     "!mythicmetals:.*anvil.*",
     "!mythicmetals:.*runite_arrow.*",
+    "!mythicmetals:.*nuke_core.*",
     "!mythicmetals:celestium_(?!ingot|block|nugget|anvil|elytra)[^/]+",
     "!mythicmetals:metallurgium_(?!ingot|block|nugget|anvil)[^/]+",
+    "!mythicmetals:hallowed(?!ingot|block|nugget|anvil)[^/]+",
 
     "!legacies_and_legends:fortress_(?!ingot|block|nugget|anvil)[^/]+",
     "!legacies_and_legends:dungeon_(?!ingot|block|nugget|anvil)[^/]+",
