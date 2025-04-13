@@ -1,0 +1,13 @@
+name = "Cerulean"
+filename = "cerulean-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a6qSiVxz/versions/y8P6Mwq7/cerulean-1.1.1.jar"
+hash-format = "sha1"
+hash = "45deacdeb6bc62c707f75c12e0ec46b37fefe0b3"
+
+[update]
+[update.modrinth]
+mod-id = "a6qSiVxz"
+version = "y8P6Mwq7"

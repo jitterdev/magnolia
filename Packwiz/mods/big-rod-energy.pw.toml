@@ -1,0 +1,13 @@
+name = "Big Rod Energy"
+filename = "bigrodenergy-1.21.1-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OYMwG8B8/versions/MO6WSoig/bigrodenergy-1.21.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "c22a66b3d084772af37610af74cbca502b225415"
+
+[update]
+[update.modrinth]
+mod-id = "OYMwG8B8"
+version = "MO6WSoig"

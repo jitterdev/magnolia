@@ -20,14 +20,30 @@
     "!mythicmetals:.*runite_arrow.*",
     "!mythicmetals:celestium_(?!ingot|block|nugget|anvil|elytra)[^/]+",
     "!mythicmetals:metallurgium_(?!ingot|block|nugget|anvil)[^/]+",
+
+    "!legacies_and_legends:fortress_(?!ingot|block|nugget|anvil)[^/]+",
+    "!legacies_and_legends:dungeon_(?!ingot|block|nugget|anvil)[^/]+",
+    "!legacies_and_legends:ward_(?!ingot|block|nugget|anvil)[^/]+",
+    "legacies_and_legends:ancient_knife",
+
+    "!natures_spirit:.*cheese.*",
+    "!natures_spirit:.*pizza.*",
+    
+    "!trailandtales_delight:.*cheese.*",
+    "trailandtales_delight:curd_block",
+
     "galosphere:combustion_table",
     "galosphere:silver_bomb",
+
     "mythicmetals:celestium_elytra",
     "mythicmetals:unobtainium_smithing_template",
+
     "supplementaries:bomb_blue",
+
     "metalbundles:golden_bundle",
     "metalbundles:diamond_bundle",
-    "metalbundles:netherite_bundle"
+    "metalbundles:netherite_bundle",
+
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -36,7 +52,7 @@
   // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
   // 	
   // 	 You can also use regular expressions by starting the value with !
-  "blacklisted_nbt": [],
+  "blacklisted_nbt": [], // THIS DOESNT WORK IN THE PACK CUZ 1.21
   // -----------------------------------------------------------
   // Items here will not be able to be right-clicked (Interact)
   //    Example: minecraft:apple

@@ -5,7 +5,12 @@
     "atmosfera:dungeons",
     "continuity:glass_pane_culling_fix",
     "continuity:default",
-    "minecraft:supporteatinganimation"
+    "minecraft:supporteatinganimation",
+    "scholar:colored_books",
+    "scholar:chiseled_bookshelf_colored_books",
+
+    "flower_power",
+    "bigrodenergy:shoulder_fishing_rod"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -13,7 +18,12 @@
   "pack_overrides": {
     "1": [
       "continuity:glass_pane_culling_fix",
-      "continuity:default"
+      "continuity:default",
+      "scholar:colored_books",
+      "scholar:chiseled_bookshelf_colored_books",
+
+      "flower_power",
+      "bigrodenergy:shoulder_fishing_rod"
     ],
     "$$1": {
       "hidden": true,
@@ -31,7 +41,9 @@
       "dye_depot:dye_override",
       "natures_spirit:better_leaves_compatibility",
       "supplementaries:darker_ropes",
-      "minecraft:supporteatinganimation"
+      "minecraft:supporteatinganimation",
+      "bigrodenergy:unique_fishing_rod_names",
+      "bigrodenergy:purple_spotted_warped_fungus"
     ],
     "$$2": {
       "hidden": true

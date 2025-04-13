@@ -1,0 +1,13 @@
+name = "Potion Sauce"
+filename = "potionsauce-1.21-r1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/btXizr0j/versions/4bK1wlvi/potionsauce-1.21-r1.jar"
+hash-format = "sha1"
+hash = "de47a583ebde3b159696eb9a88103ac8756dd414"
+
+[update]
+[update.modrinth]
+mod-id = "btXizr0j"
+version = "4bK1wlvi"

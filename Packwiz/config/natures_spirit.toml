@@ -1,0 +1,82 @@
+[biome]
+	has_cedar_thicket = false
+	has_xeric_plains = false
+	has_boreal_taiga = true
+	has_redwood_forest = true
+	has_carnation_fields = true
+	has_arid_savanna = true
+	has_marigold_meadows = true
+	has_shrubland = false
+	has_arid_highlands = true
+	has_stratified_desert = true
+	has_tropical_basin = true
+	has_marsh = true
+	has_coniferous_covert = false
+	has_flowering_shrubland = false
+	has_tropical_shores = false
+	has_snowcapped_red_peaks = true
+	has_sugi_forest = false
+	has_golden_wilds = true
+	has_prairie = true
+	has_blooming_sugi_forest = false
+	has_bamboo_wetlands = true
+	has_dusty_slopes = true
+	has_lavender_fields = true
+	has_tropical_woods = false
+	has_heather_fields = true
+	has_wisteria_forest = true
+	has_oak_savanna = true
+	has_fir_forest = false
+	has_blooming_highlands = true
+	has_floral_ridges = true
+	has_alpine_highlands = false
+	has_woody_highlands = false
+	has_lively_dunes = true
+	has_sleeted_slopes = true
+	has_tundra = false
+	has_snowy_fir_forest = false
+	has_cypress_fields = false
+	has_red_peaks = true
+	has_aspen_forest = false
+	has_windswept_sugi_forest = false
+	has_maple_woodlands = false
+	has_scorched_dunes = true
+	has_sparse_tropical_woods = false
+	has_shrubby_highlands = false
+	has_drylands = false
+	has_alpine_clearings = true
+	has_blooming_dunes = true
+	has_white_cliffs = true
+	has_chaparral = false
+	has_snowy_redwood_forest = true
+	has_wooded_drylands = false
+
+[region]
+	terra_solaris_frequency = 4
+	terra_ferax_frequency = 4
+	terra_flava_frequency = 4
+	terra_laeta_frequency = 4
+	terra_mater_frequency = 4
+
+[datapacks]
+	jungle_toggle = true
+	savanna_toggle = true
+	windswept_hills_toggle = true
+	mountain_biomes_toggle = true
+	desert_toggle = true
+	swamp_toggle = true
+	flower_forest_toggle = true
+	birch_forest_toggle = true
+	vanilla_trees_toggle = false
+	badlands_toggle = true
+	dark_forest_toggle = true
+
+[misc]
+	#Toggle the additional creative inventory tab
+	creative_tab = true
+	#Calcite clusters from coral feature
+	calcite_generator = true
+	#Toggle the Pillar Generation (turn off for lower end devices)
+	sugi_and_stratified_pillars = false
+	#Toggle the Deepslate Generator
+	deepslate_generator = true

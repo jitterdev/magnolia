@@ -1,0 +1,13 @@
+name = "Tiny Flowers"
+filename = "tiny-flowers-mc1.21.1-1.2.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S0Lqneqb/versions/FHk0ysUS/tiny-flowers-mc1.21.1-1.2.0%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "c93dcb792508afa7821df464d7eda9d989299d4f"
+
+[update]
+[update.modrinth]
+mod-id = "S0Lqneqb"
+version = "FHk0ysUS"

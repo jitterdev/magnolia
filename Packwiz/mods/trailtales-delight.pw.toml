@@ -1,0 +1,13 @@
+name = "Trail&Tales Delight"
+filename = "trailandtales_delight-fabric 1.21.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Koee7vhY/versions/iaq0Pwno/trailandtales_delight-fabric%201.21.1-1.1.5.jar"
+hash-format = "sha1"
+hash = "739900dadb5f79854288cc6cf15d15e0f42e31e4"
+
+[update]
+[update.modrinth]
+mod-id = "Koee7vhY"
+version = "iaq0Pwno"

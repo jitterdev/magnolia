@@ -1,13 +1,13 @@
 name = "Nature's Delight"
-filename = "naturesdelight-1.6.jar"
+filename = "naturesdelight-1.10-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/18s8zHvJ/versions/EdNrnKch/naturesdelight-1.6.jar"
+url = "https://cdn.modrinth.com/data/18s8zHvJ/versions/CeZ6o50M/naturesdelight-1.10-1.21.1.jar"
 hash-format = "sha1"
-hash = "2011884b264c6a882d8a1fe650b49eddcea4f144"
+hash = "5edee5c8af63498dfe08fd40440e7bda9662a1e2"
 
 [update]
 [update.modrinth]
 mod-id = "18s8zHvJ"
-version = "EdNrnKch"
+version = "CeZ6o50M"

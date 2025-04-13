@@ -1,0 +1,13 @@
+name = "More Paths"
+filename = "more_paths-0.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o9BYIzF3/versions/KGPEGWPa/more_paths-0.1.0%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "4efadcc2bf06f00c30c2de1aff7839fcbf8a73e6"
+
+[update]
+[update.modrinth]
+mod-id = "o9BYIzF3"
+version = "KGPEGWPa"

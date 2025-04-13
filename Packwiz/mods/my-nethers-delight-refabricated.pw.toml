@@ -1,13 +1,13 @@
 name = "My Nether's Delight Refabricated"
-filename = "MyNethersDelight-1.20.1-1.0.4+1.7.6.refabricated.jar"
+filename = "MyNethersDelight-1.21.1-2.0.3+1.7.8.refabricated.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uIOfYdnw/versions/hWkzjgHd/MyNethersDelight-1.20.1-1.0.4%2B1.7.6.refabricated.jar"
+url = "https://cdn.modrinth.com/data/uIOfYdnw/versions/sqEAS0LT/MyNethersDelight-1.21.1-2.0.3%2B1.7.8.refabricated.jar"
 hash-format = "sha1"
-hash = "89dde1d403b4df1c2397fef333ef9df8cebb2a75"
+hash = "ab0cea2a1b945ae357c3f5c97e4e1448d0e28862"
 
 [update]
 [update.modrinth]
 mod-id = "uIOfYdnw"
-version = "hWkzjgHd"
+version = "sqEAS0LT"

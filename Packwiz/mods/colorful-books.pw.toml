@@ -1,0 +1,13 @@
+name = "Colorful Books"
+filename = "colorful-books-1.4+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yPjno2zz/versions/BQeQPPMO/colorful-books-1.4%2B1.21.jar"
+hash-format = "sha1"
+hash = "0a03d45922de54e11bce810a433a3adca348d5ca"
+
+[update]
+[update.modrinth]
+mod-id = "yPjno2zz"
+version = "BQeQPPMO"

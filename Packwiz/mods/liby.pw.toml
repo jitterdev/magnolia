@@ -1,0 +1,13 @@
+name = "Liby"
+filename = "liby-1.21.1-build-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UsIxG2yq/versions/JfSAp4oh/liby-1.21.1-build-2.1.1.jar"
+hash-format = "sha1"
+hash = "00deba15e7742652ba6cc272bc805518d1d9b6bd"
+
+[update]
+[update.modrinth]
+mod-id = "UsIxG2yq"
+version = "JfSAp4oh"

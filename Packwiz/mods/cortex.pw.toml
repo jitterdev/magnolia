@@ -1,0 +1,13 @@
+name = "Cortex"
+filename = "cortex-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KNee4KiW/versions/RCU5GVmd/cortex-1.0.0%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "375cbbf493d79bc52e250fd60a4740702157c969"
+
+[update]
+[update.modrinth]
+mod-id = "KNee4KiW"
+version = "RCU5GVmd"

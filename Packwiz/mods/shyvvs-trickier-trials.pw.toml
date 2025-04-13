@@ -1,0 +1,13 @@
+name = "Shyvv's Trickier Trials"
+filename = "shyvv-trials-1.0.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kTiARw3b/versions/boJixYQK/shyvv-trials-1.0.1-1.21.1.jar"
+hash-format = "sha1"
+hash = "2fd23c0cc79174ec8da60005d165aa8d6aa7b6c8"
+
+[update]
+[update.modrinth]
+mod-id = "kTiARw3b"
+version = "boJixYQK"

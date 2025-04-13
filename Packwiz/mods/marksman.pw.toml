@@ -1,0 +1,13 @@
+name = "Marksman"
+filename = "marksman-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/joN0iKRG/versions/7e95kDjl/marksman-1.2.2.jar"
+hash-format = "sha1"
+hash = "623fffbc0f12cc95f2206e225f8b151c4f677191"
+
+[update]
+[update.modrinth]
+mod-id = "joN0iKRG"
+version = "7e95kDjl"

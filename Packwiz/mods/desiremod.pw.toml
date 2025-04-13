@@ -1,0 +1,13 @@
+name = "Desire"
+filename = "desire-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XQx4LD8f/versions/cVtcIwGM/desire-1.0.0-1.21.1.jar"
+hash-format = "sha1"
+hash = "69e37fd26448db5f06da0bce14c58d900c8eabb0"
+
+[update]
+[update.modrinth]
+mod-id = "XQx4LD8f"
+version = "cVtcIwGM"

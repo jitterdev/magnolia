@@ -1,13 +1,13 @@
 name = "Gardens of the Dead"
-filename = "gardens-of-the-dead-fabric-4.0.1.jar"
+filename = "gardens-of-the-dead-fabric-5.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lg1TPRFm/versions/dwXQdKI3/gardens-of-the-dead-fabric-4.0.1.jar"
+url = "https://cdn.modrinth.com/data/lg1TPRFm/versions/gizEQpF1/gardens-of-the-dead-fabric-5.0.0.jar"
 hash-format = "sha1"
-hash = "8a63bc763ad565a5bc0a8c39e2bbdd79f7bafbaf"
+hash = "7a4c7337a95d9e3fd3c674272451c457043ffc15"
 
 [update]
 [update.modrinth]
 mod-id = "lg1TPRFm"
-version = "dwXQdKI3"
+version = "gizEQpF1"

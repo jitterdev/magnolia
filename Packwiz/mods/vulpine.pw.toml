@@ -1,0 +1,13 @@
+name = "Vulpine"
+filename = "vulpine-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kAckHNrf/versions/iNrDDpfK/vulpine-2.2.0.jar"
+hash-format = "sha1"
+hash = "b3f9cab9a6d048ecc80c1f1802daa1f8bd9c20d4"
+
+[update]
+[update.modrinth]
+mod-id = "kAckHNrf"
+version = "iNrDDpfK"

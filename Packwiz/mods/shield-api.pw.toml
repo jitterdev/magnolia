@@ -1,0 +1,13 @@
+name = "Shield API"
+filename = "ShieldAPI-2.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y9clIFY4/versions/gS70MjKr/ShieldAPI-2.0.2%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "1e8efe5d3308c8e42ed29a86707f858b789f533c"
+
+[update]
+[update.modrinth]
+mod-id = "y9clIFY4"
+version = "gS70MjKr"

@@ -1,0 +1,13 @@
+name = "Remnants"
+filename = "remnants-1.21.1-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GAUgVfbP/versions/V25vg1zk/remnants-1.21.1-v1.0.0.jar"
+hash-format = "sha1"
+hash = "140ef38872e8801afbf391b915ee8d8bcadceb00"
+
+[update]
+[update.modrinth]
+mod-id = "GAUgVfbP"
+version = "V25vg1zk"

@@ -1,0 +1,13 @@
+name = "Psittacine"
+filename = "psittacine-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wLd3PXzz/versions/fF5ecBgz/psittacine-1.0.0.jar"
+hash-format = "sha1"
+hash = "4772e0b94a524a00923c12ecd079648a4277be62"
+
+[update]
+[update.modrinth]
+mod-id = "wLd3PXzz"
+version = "fF5ecBgz"

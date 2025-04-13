@@ -1,13 +1,16 @@
-name = "jitterpack"
+name = "magnolia"
 author = "Jitter"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9539e9d5bfe906b43b06ee518d5a4b7b7ce639e3c4f32af255d1379a02bb0832"
+hash = "fef10fda58ef9c1b56369b705adeb97b2972f7c960242ad86f77d729b24a961f"
 
 [versions]
-fabric = "0.16.10"
-minecraft = "1.20.1"
+fabric = "0.16.12"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21", "1.21.1"]
