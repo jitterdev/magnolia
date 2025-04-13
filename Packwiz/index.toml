@@ -674,11 +674,6 @@ hash = "27139c72cf976b8af2eba86da61b5fd4bb7b82e0265fdccb571f642a2d7106fe"
 metafile = true
 
 [[files]]
-file = "mods/async.pw.toml"
-hash = "72ec23f8437f66c7defb1a4ae7167c1f0d5553cfb0374f097256dbc910af04b5"
-metafile = true
-
-[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "a089a9e5cc79c641a40248fc32ffd328b258e4703e00503e27b5b52f8229240e"
 metafile = true
@@ -1301,11 +1296,6 @@ metafile = true
 [[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "427473b52cee5d00b536be207fa5a5b3e0104522346e3b458172f477c66506f3"
-metafile = true
-
-[[files]]
-file = "mods/origins-minus.pw.toml"
-hash = "cde388945cf1081dc066057e110c9c98de8156d2bff037c4c5c8af21d4741c30"
 metafile = true
 
 [[files]]
