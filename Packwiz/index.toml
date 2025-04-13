@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "8bf90ca7e287380a318041ab7d7d06b25bd8485cfab5b195265265455f0179d1"
-
-[[files]]
 file = "config/ambientsounds-client.json"
 hash = "7a7eb095d2a9e0d33989671cce5ffff74f79df71d4d12d8084b0448f47bd4889"
 
