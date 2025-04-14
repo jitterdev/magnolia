@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "537ba7c58fa6883cec946f964997b73a3aa072e1b8fa15856ffd42fdd637111e"
+hash = "0751ac0f3bcd4cb9aa7e16127ecb2123bf6774a1cfd81043f1d365f6663c3d9c"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -473,14 +473,6 @@ file = "config/paxi/datapacks/flower_power/data/nadir/tags/item/enchantable/tool
 hash = "04fdce8efd4db696ef230aebe15bbd9d2f99e695fde109a3e770176ef867b42c"
 
 [[files]]
-file = "config/paxi/datapacks/flower_power/data/origins_minus/origins/starved.json"
-hash = "8ecedfb485bb1e812a8c414f31605512c8616561b25bd9d7bf735a697a71a3ae"
-
-[[files]]
-file = "config/paxi/datapacks/flower_power/data/origins_minus/origins/wilding.json"
-hash = "a5f47171ff690ba73b9d9f5a7485aec9576d5d1d1ebde711105145f198111d1a"
-
-[[files]]
 file = "config/paxi/datapacks/flower_power/pack.mcmeta"
 hash = "506c594ce2645e144c78ee79f047f0357bee32f604eaaa6f4f32108904ce7355"
 
@@ -651,11 +643,6 @@ hash = "a746e34c6a7ed567f4272f149e8ca59359b0b85527c3c5655e8db925d312fdfe"
 metafile = true
 
 [[files]]
-file = "mods/altorigingui.pw.toml"
-hash = "ab9fd7c50297fbd501befff857d88225c66826c6d7acbc34b2d69edbca88a06f"
-metafile = true
-
-[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "74c5aa1224f249cc273032e4e0ebca741e1106c7d9cd023105ae880aed8b1919"
 metafile = true
@@ -753,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "115f819d46a0405978f817eea7110a088f89d4c155eb0f466fcee85c03f2ec3f"
+metafile = true
+
+[[files]]
+file = "mods/catenary.pw.toml"
+hash = "330cf2d9a0bdf7f724b379dc2485aa599f23fc9a73074f584bc5e25a20adc668"
 metafile = true
 
 [[files]]
@@ -1308,16 +1300,6 @@ metafile = true
 [[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "427473b52cee5d00b536be207fa5a5b3e0104522346e3b458172f477c66506f3"
-metafile = true
-
-[[files]]
-file = "mods/origins-minus.pw.toml"
-hash = "cde388945cf1081dc066057e110c9c98de8156d2bff037c4c5c8af21d4741c30"
-metafile = true
-
-[[files]]
-file = "mods/origins.pw.toml"
-hash = "378cac1da421de79918e0085d7328f7acba4f18d9e83a6069c187d1229903349"
 metafile = true
 
 [[files]]
