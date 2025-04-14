@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"origins_minus:energetic",
+		"origins_minus:bound"
+	],
+	 "icon": {
+		"id": "minecraft:tall_grass"
+	},
+	"impact": 1,
+    "loading_priority": 100
+}

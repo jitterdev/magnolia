@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"origins_minus:satiation",
+		"origins_minus:ravenous",
+		"origins_minus:buffet_strategy"
+	],
+	 "icon": {
+		"id": "minecraft:cake"
+	},
+	"impact": 1,
+    "loading_priority": 100,
+    "unchoosable": true
+}

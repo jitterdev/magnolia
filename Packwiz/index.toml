@@ -473,6 +473,14 @@ file = "config/paxi/datapacks/flower_power/data/nadir/tags/item/enchantable/tool
 hash = "04fdce8efd4db696ef230aebe15bbd9d2f99e695fde109a3e770176ef867b42c"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/origins_minus/origins/starved.json"
+hash = "8ecedfb485bb1e812a8c414f31605512c8616561b25bd9d7bf735a697a71a3ae"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/origins_minus/origins/wilding.json"
+hash = "a5f47171ff690ba73b9d9f5a7485aec9576d5d1d1ebde711105145f198111d1a"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/pack.mcmeta"
 hash = "506c594ce2645e144c78ee79f047f0357bee32f604eaaa6f4f32108904ce7355"
 
@@ -487,6 +495,10 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 [[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/farmersdelight/textures/item/diamond_knife.png"
 hash = "d62882dd022df25aad4863e10840dda1d56f5af4d71826c2c6add7c430d798fe"
+
+[[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/magnolia/lang/en_us.json"
+hash = "dac213d6f31f1c599599ee234c9acb73b5275483741c2c34569d390aef889f7f"
 
 [[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/nadir/lang/en_us.json"
@@ -1299,8 +1311,13 @@ hash = "427473b52cee5d00b536be207fa5a5b3e0104522346e3b458172f477c66506f3"
 metafile = true
 
 [[files]]
+file = "mods/origins-minus.pw.toml"
+hash = "cde388945cf1081dc066057e110c9c98de8156d2bff037c4c5c8af21d4741c30"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
-hash = "262e4b8f04e138e82809c67952c1ce2b14e8985293a30705e532c02215486bcf"
+hash = "378cac1da421de79918e0085d7328f7acba4f18d9e83a6069c187d1229903349"
 metafile = true
 
 [[files]]
