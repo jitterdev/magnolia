@@ -1,13 +1,13 @@
 name = "Cavern Root"
-filename = "cavern-root-1.1.4.jar"
+filename = "cavern-root-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XyNBLWyC/versions/PvQQku90/cavern-root-1.1.4.jar"
+url = "https://cdn.modrinth.com/data/XyNBLWyC/versions/uDhZcfQ1/cavern-root-1.1.5.jar"
 hash-format = "sha1"
-hash = "6cbe0ada122fb1bb2e41b9f5ac846d8cdc98ed48"
+hash = "99b7af8fc5fa9d47f993f930db0c00ad963b5b7e"
 
 [update]
 [update.modrinth]
 mod-id = "XyNBLWyC"
-version = "PvQQku90"
+version = "uDhZcfQ1"

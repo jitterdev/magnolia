@@ -1,13 +1,13 @@
 name = "Atmosfera"
-filename = "atmosfera-2.1.0+mc1.21.jar"
+filename = "atmosfera-2.2.0+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/28G1xpgF/versions/vyvrFB5q/atmosfera-2.1.0%2Bmc1.21.jar"
+url = "https://cdn.modrinth.com/data/28G1xpgF/versions/2OF1UoOd/atmosfera-2.2.0%2Bmc1.21.1.jar"
 hash-format = "sha1"
-hash = "ff8a4cd2e4ae9d10721f551526f0b620fd65fe60"
+hash = "cb81c3f9cd7a958b54bd1ab4fe5c59fc132ef7d0"
 
 [update]
 [update.modrinth]
 mod-id = "28G1xpgF"
-version = "vyvrFB5q"
+version = "2OF1UoOd"

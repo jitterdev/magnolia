@@ -1,13 +1,13 @@
 name = "Fog"
-filename = "Fog-fabric-1.6.4-1.21.1.jar"
+filename = "Fog-fabric-1.7.0-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/G8p1S8PA/Fog-fabric-1.6.4-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/nRWvnTKN/Fog-fabric-1.7.0-1.21.1.jar"
 hash-format = "sha1"
-hash = "5ed62e7c34a313616c478a250d9a881f0e5def7c"
+hash = "33083e6653c1c7b4d078ae61c3403fd33c7a690e"
 
 [update]
 [update.modrinth]
 mod-id = "WuGVWUF2"
-version = "G8p1S8PA"
+version = "nRWvnTKN"
