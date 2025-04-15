@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins_minus:echolocation",
+		"origins_minus:rappel",
+		"origins_minus:sticky_situations",
+		"origins:no_cobweb_slowdown",
+        "pht:climbing"
+	],
+	 "icon": {
+		"id": "minecraft:glow_lichen"
+	},
+	"impact": 1,
+	"loading_priority": 100
+}

@@ -1,13 +1,13 @@
 name = "Cerulean"
-filename = "cerulean-1.1.1.jar"
+filename = "cerulean-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/a6qSiVxz/versions/y8P6Mwq7/cerulean-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/a6qSiVxz/versions/i2b8eY9Z/cerulean-1.1.4.jar"
 hash-format = "sha1"
-hash = "45deacdeb6bc62c707f75c12e0ec46b37fefe0b3"
+hash = "09ba87f37cb566471e6b31b50630b7c08ab815d2"
 
 [update]
 [update.modrinth]
 mod-id = "a6qSiVxz"
-version = "y8P6Mwq7"
+version = "i2b8eY9Z"

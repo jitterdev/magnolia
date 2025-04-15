@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "pht:bulkhead",
+        "pht:bulkhead_break_speed"
+    ],
+    "icon": {
+        "id": "minecraft:flint"
+    },
+    "impact": 1,
+    "name": "Gaunt",
+    "description": "Unstoppable forces."
+}

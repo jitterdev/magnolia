@@ -473,6 +473,62 @@ file = "config/paxi/datapacks/flower_power/data/nadir/tags/item/enchantable/tool
 hash = "04fdce8efd4db696ef230aebe15bbd9d2f99e695fde109a3e770176ef867b42c"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/origins/origin_layers/origin.json"
+hash = "90dd4d2a367b5af3db6a1c4cef8478b43124f340736d1b52bb163a084970d1fb"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/origins_minus/origins/dryad.json"
+hash = "0dd4bd1de7ff11c84e68fa2de95471a5803265ba87457b965a5ec6cc2c9e5344"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/origins_minus/origins/sanguine.json"
+hash = "dca548d0bfca0a7e313d2553adbc446771266cfb3d91b19d0e320a43fdfe3bb1"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/origins_minus/origins/starved.json"
+hash = "b6e60edd1dceb78c7f0fbd7464e22ee6e0f2735e538f1931f227af5ca2424bd0"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/origins_minus/origins/weaver.json"
+hash = "f936f962698c47d7a3931fb1a45e3b2960375f6e7b9c9f2d3a0f1765c4616d06"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/origins_minus/powers/carefree.json"
+hash = "59d73ff19025110f0337af0ff5208497b4df7bf85382d54702ed1d8ccf3ed08f"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/origins_minus/powers/flap.json"
+hash = "f50b9fcef328680f0e5470c6e485b624d70309a8ee51d94cb4d40faa866c9db6"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/origins_minus/powers/no_hunger.json"
+hash = "40efac2b304b868451af9367707a647caa44cb29f368ba99608dea196b03829b"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/origins_minus/powers/rappel.json"
+hash = "a80e710c75434453844eb78e235201b1e043594bc39c6a87208854c7393928c1"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/origins/gaunt.json"
+hash = "24b8ba39b50224b197041c6d1fe5e8ad45b1e67aa19ca55a0fdcb65771e0553e"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/powers/bulkhead.json"
+hash = "dc0e64d0e9aa1ad388193022b81fa0d3147dc8cd34515af7cfd6dd457f0f952f"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/powers/bulkhead_break_speed.json"
+hash = "2ea842aca1ccae732d3f8032af4642611af4018e559ee557c684e3ee054ae271"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/powers/claws.json"
+hash = "83669fdeb7823721b0e9ec032ab27f079453000a6f8b5a20d85625b6d02cf5be"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/powers/climbing.json"
+hash = "8396da8b7ef97733ea2f7824f9fde7b2644dcd3e6bba6f260b796edb791c65ba"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/pack.mcmeta"
 hash = "506c594ce2645e144c78ee79f047f0357bee32f604eaaa6f4f32108904ce7355"
 
@@ -549,8 +605,24 @@ file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/t
 hash = "d3f9b8f04b6aa791fa76c9abbf63131af140923456fa0212f300f8ae48b2e97f"
 
 [[files]]
-file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/colormap/grass.png"
-hash = "3211a14903adf82f0199d986666afab54a208248a7220110f99fbf1237ca72ff"
+file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/water_flow.png"
+hash = "7534a09399e12a8efdb95e7837ef0649860eb55de87232fa69bb84e266f1353f"
+
+[[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/water_flow.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/water_overlay.png"
+hash = "a8ceb6ae4c2f1e1083f2ebcfc9c7925a3da9b8d08680a9b289abf3ab8dcf81f2"
+
+[[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/water_still.png"
+hash = "116f94c8c83a388a514ea237fce2bcb040295990e37acf8bcf1897aa6936e727"
+
+[[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/water_still.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
 
 [[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/entity/end_crystal/end_crystal.png"
@@ -615,10 +687,6 @@ hash = "44e260f6830383953a81901cf7d40b3c99d1ae292576599409c87efa381cec33"
 [[files]]
 file = "config/sodium-options.json"
 hash = "253dd9e32c8e32bb981068190e5364b12409b2306b0ea41229f9849e7c3ed926"
-
-[[files]]
-file = "config/sodiumdynamiclights-client.toml"
-hash = "9a439ebfe79ce34cd5ae800207fd2db3ca9740e969b580d788d4080b23b98dab"
 
 [[files]]
 file = "config/sounds/chat.json"
@@ -716,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/almanac.pw.toml"
 hash = "a746e34c6a7ed567f4272f149e8ca59359b0b85527c3c5655e8db925d312fdfe"
+metafile = true
+
+[[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "ab9fd7c50297fbd501befff857d88225c66826c6d7acbc34b2d69edbca88a06f"
 metafile = true
 
 [[files]]
@@ -830,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerulean.pw.toml"
-hash = "6a5cade1392ee1e470bfd4981ea9fd057bb4e1f38a59df3a63f9aea3ff1ea114"
+hash = "5b1e6ac31d58124039a2351eb7d090faa863fe9cb2a2652eee3d8dd027566409"
 metafile = true
 
 [[files]]
@@ -1374,6 +1447,16 @@ hash = "427473b52cee5d00b536be207fa5a5b3e0104522346e3b458172f477c66506f3"
 metafile = true
 
 [[files]]
+file = "mods/origins-dietary-delights.pw.toml"
+hash = "15306432718ad958feaf4143e764e7787141a460d36873308611a0c091b06f07"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "262e4b8f04e138e82809c67952c1ce2b14e8985293a30705e532c02215486bcf"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "a5c3497b5a4994daaa37438604a3b5e2191c876c0597e933055583e12ea1b237"
 metafile = true
@@ -1474,6 +1557,11 @@ hash = "f9301dee4de768b0974eaf4fcec2bcca53aab8a85ff2223e8b27d73112030f30"
 metafile = true
 
 [[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "c456b8055d6c39599b74d1ef518cd83892b3055bd283fc0aae78cf6899f5f146"
 metafile = true
@@ -1509,11 +1597,6 @@ hash = "60274c51b92839bed6ca364982a0dcfb3a68ee8c2e228f04bd6344df0d4b2d02"
 metafile = true
 
 [[files]]
-file = "mods/sitting+.pw.toml"
-hash = "e1f6e517dd35bfedc4d3c500bcf44ffb9ff5f36bb07637dc60756c78ca62d7b5"
-metafile = true
-
-[[files]]
 file = "mods/smoke-signals.pw.toml"
 hash = "f8fdfa19a2f7737a4c96a47db221155903adc2483a4bf208c7bbc9504410f03b"
 metafile = true
@@ -1521,11 +1604,6 @@ metafile = true
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "2d0fd1c7ba06877ae7d707c317e9a08fd3e777525db81b4ad25a0bbfe6fd00e0"
-metafile = true
-
-[[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "00c0498581d92b4e0c59d669aa671fa860924a906921b0576b5cd3a3300bd4d8"
 metafile = true
 
 [[files]]

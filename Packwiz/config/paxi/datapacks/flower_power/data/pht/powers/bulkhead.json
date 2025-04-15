@@ -1,0 +1,10 @@
+{
+	"type": "origins:modify_harvest",
+	"allow": true,
+	"block_condition": {
+		"type": "origins:in_tag",
+		"tag": "minecraft:needs_stone_tool"
+	},
+    "name": "Bulkhead",
+    "description": "You break all blocks faster. Your fists are as strong as stone tools."
+}

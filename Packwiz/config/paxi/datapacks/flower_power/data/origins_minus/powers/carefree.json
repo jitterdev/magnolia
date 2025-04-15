@@ -1,0 +1,105 @@
+{
+	"type": "origins:multiple",
+	"bounce": {
+		"type": "origins:action_on_land",
+		"entity_action": {
+			"type": "origins:if_else",
+			"condition": {
+				"type": "origins:fall_distance",
+				"comparison": ">=",
+				"compare_to": 8
+			},
+			"if_action": [
+				{
+					"type": "origins:play_sound",
+					"sound": "item.armor.equip_elytra",
+					"volume": 1,
+					"pitch": 1
+				},
+				{
+					"type": "origins:play_sound",
+					"sound": "entity.breeze.jump",
+					"volume": 0.25,
+					"pitch": 0.8
+				},
+				{
+					"type": "origins:play_sound",
+					"sound": "item.trident.riptide_1",
+					"volume": 0.33,
+					"pitch": 2
+				},
+				{
+					"type": "origins:if_else_list",
+					"actions": [
+						{
+							"condition": {
+								"type": "origins:fall_distance",
+								"comparison": ">=",
+								"compare_to": 16
+							},
+							"action": {
+								"type": "origins:add_velocity",
+								"y": 1.0,
+								"space": "world"
+							}
+						},
+						{
+							"condition": {
+								"type": "origins:fall_distance",
+								"comparison": ">=",
+								"compare_to": 12
+							},
+							"action": {
+								"type": "origins:add_velocity",
+								"y": 0.7,
+								"space": "world"
+							}
+						},
+						{
+							"condition": {
+								"type": "origins:constant",
+								"value": true
+							},
+							"action": {
+								"type": "origins:add_velocity",
+								"y": 0.4,
+								"space": "world"
+							}
+						}
+					]
+				}
+			]
+		}
+	},
+	"modify_damage_and_bounce": {
+		"type": "origins:modify_damage_taken",
+		"damage_condition": {
+			"type": "origins:name",
+			"name": "fall"
+		},
+		"modifiers": [
+			{
+				"operation": "multiply_base_multiplicative",
+				"amount": -0.5
+			},
+			{
+				"operation": "min_total",
+				"amount": 1
+			}
+		]
+	},
+	"minimum": {
+		"type": "origins:invulnerability",
+		"damage_condition": {
+			"type": "origins:name",
+			"name": "fall"
+		},
+		"condition": {
+			"type": "origins:fall_distance",
+			"comparison": "<",
+			"compare_to": 8
+		}
+	},
+    "loading_priority": 100,
+    "description": "High falls are safer, if a little clumsy."
+}

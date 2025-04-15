@@ -1,0 +1,16 @@
+{
+	"name": "Clamber",
+	"description": "Climb any wall.",
+	"badges": [
+		{
+            "type": "origins:keybind",
+			"sprite": "origins:textures/gui/badge/active.png",
+			"text": "Ascend with [Sneak]"
+		}
+	],
+	"condition": {
+		"type": "origins:sneaking"
+	},
+	"type": "origins:climbing",
+	"allow_holding": true
+}

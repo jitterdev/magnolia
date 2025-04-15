@@ -1,0 +1,13 @@
+name = "Overgrown's Origins: Dietary Delights"
+filename = "origins-dietary-delights-1.9.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVkoXkly/versions/NqeJXKXG/origins-dietary-delights-1.9.5.jar"
+hash-format = "sha1"
+hash = "d59ff9f8ff022dee292ed7feb5a4c24170d0edbb"
+
+[update]
+[update.modrinth]
+mod-id = "BVkoXkly"
+version = "NqeJXKXG"
