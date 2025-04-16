@@ -557,10 +557,6 @@ file = "config/paxi/resourcepacks/flower_power/assets/minecraft/models/item/tall
 hash = "5bac8effafa6730caf18c91c5ba0f31f00edf78029e1d3620eedfba5e8e966d6"
 
 [[files]]
-file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/bedrock.png"
-hash = "fc8e1178e4ea08ea0d82816ffb90fe69477b9a17d672f62e3004e98604f24952"
-
-[[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/fire_0.png"
 hash = "3c9bd20cbfaa58ce53dd31b036b2216bd7fabab0d5aaec61c6e6feed103cf2ea"
 
