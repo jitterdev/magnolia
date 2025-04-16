@@ -514,7 +514,7 @@ hash = "24b8ba39b50224b197041c6d1fe5e8ad45b1e67aa19ca55a0fdcb65771e0553e"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/pht/powers/bulkhead.json"
-hash = "dc0e64d0e9aa1ad388193022b81fa0d3147dc8cd34515af7cfd6dd457f0f952f"
+hash = "3de7e7417923ecbc5d4144308ab2e4d1fefab98524851f50f12ed8e26a32237f"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/pht/powers/bulkhead_break_speed.json"
@@ -527,6 +527,10 @@ hash = "83669fdeb7823721b0e9ec032ab27f079453000a6f8b5a20d85625b6d02cf5be"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/pht/powers/climbing.json"
 hash = "8396da8b7ef97733ea2f7824f9fde7b2644dcd3e6bba6f260b796edb791c65ba"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/orb_of_origin.json"
+hash = "2e61e87241ed1e27f55c91a5b33953751f37d9b5a28b9c382a52ca02ea5cf728"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/pack.mcmeta"
@@ -1212,11 +1216,6 @@ hash = "8aa6b67c8edeebbc7fb923449563c17d4c01df00d45ca7441b988c093b30c846"
 metafile = true
 
 [[files]]
-file = "mods/immersive-lanterns.pw.toml"
-hash = "e5f3f3751108efb34f69b7a68dceadf2939a5c59f6aa25e6843221cd3b28fe38"
-metafile = true
-
-[[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "d87e5e2f1159d880bcb0b39c9bb1a41ea1cbea0d5e057920a77ad0e45e226ded"
 metafile = true
@@ -1614,16 +1613,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "fa41e05d17ae825fe60001763b2160c15b3998fb0352fce0e70af67172afb262"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "99fdf3b3b532e4ea49b51a68227c1be390f41b247d452a962e0d7a5763728857"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-mod-compat.pw.toml"
-hash = "289e35ae691e6759f01ba544ccf99bf1d7418dd8fa54aba9f4e3b4268c19dc44"
 metafile = true
 
 [[files]]
