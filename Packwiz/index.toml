@@ -609,26 +609,6 @@ file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/t
 hash = "d3f9b8f04b6aa791fa76c9abbf63131af140923456fa0212f300f8ae48b2e97f"
 
 [[files]]
-file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/water_flow.png"
-hash = "7534a09399e12a8efdb95e7837ef0649860eb55de87232fa69bb84e266f1353f"
-
-[[files]]
-file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/water_flow.png.mcmeta"
-hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
-
-[[files]]
-file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/water_overlay.png"
-hash = "a8ceb6ae4c2f1e1083f2ebcfc9c7925a3da9b8d08680a9b289abf3ab8dcf81f2"
-
-[[files]]
-file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/water_still.png"
-hash = "116f94c8c83a388a514ea237fce2bcb040295990e37acf8bcf1897aa6936e727"
-
-[[files]]
-file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/block/water_still.png.mcmeta"
-hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
-
-[[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/minecraft/textures/entity/end_crystal/end_crystal.png"
 hash = "1e2c954a108ca286f9231ca243d6d08a320ccd911b10cfb6266551411d9bd6b2"
 
@@ -646,7 +626,7 @@ hash = "954f9acd42422dc086285c214b9b6670bddb4f7fedb1237a4a99488ca42fa34b"
 
 [[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/nadir/lang/en_us.json"
-hash = "f22aeb134f709ba8ae894ae92e8e07111ea1010bd33db1e668ddbdec4d26992b"
+hash = "58c48515811e270be9e5b4aa079f8731b3250000cb1cdd48709383b66a5c6c50"
 
 [[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/natures_spirit/textures/block/chert_diamond_ore.png"

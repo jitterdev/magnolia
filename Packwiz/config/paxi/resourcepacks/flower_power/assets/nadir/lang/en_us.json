@@ -15,5 +15,6 @@
     "enchantment.nadir.spring.desc": "Increases jump height and safe fall distance.",
     "enchantment.nadir.swift_strike.desc": "Increases attack speed.",
     "enchantment.nadir.swiftfooted.desc": "Increases movement speed.",
-    "enchantment.nadir.scholar.desc": "Increases dropped experience."
+    "enchantment.nadir.scholar.desc": "Increases dropped experience.",
+    "enchantment.nadir.step.desc": "Increases your step height, allowing you to walk up full blocks."
 }
