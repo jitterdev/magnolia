@@ -1621,6 +1621,11 @@ hash = "2023c4d7ac03cc657f303642f890a645a1db07a26b0b046416e2f6ecda88c29b"
 metafile = true
 
 [[files]]
+file = "mods/splinecart.pw.toml"
+hash = "f00c9af79ae2f29a70519dec8b5c553e16f656ec935ea7485b8f39dfeb1dc542"
+metafile = true
+
+[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "e03b87b6828389aefd76104c9effcc1eb8a5ee0661c36811e020dcf9e83f40e9"
 metafile = true

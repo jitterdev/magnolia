@@ -1,0 +1,13 @@
+name = "Splinecart"
+filename = "splinecart-0.3.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mAHz905I/versions/PC6u9xFB/splinecart-0.3.1%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "ef1e08535f0f00c683dffb18064cc59890756269"
+
+[update]
+[update.modrinth]
+mod-id = "mAHz905I"
+version = "PC6u9xFB"
