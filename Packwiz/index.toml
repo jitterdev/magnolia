@@ -533,6 +533,10 @@ file = "config/paxi/datapacks/flower_power/data/pht/recipe/orb_of_origin.json"
 hash = "2e61e87241ed1e27f55c91a5b33953751f37d9b5a28b9c382a52ca02ea5cf728"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/shyvvtrials/enchantment/penetration.json"
+hash = "781439289f82916894b1851df86617141d26bb4b8a7b984798b704b3602850fb"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/pack.mcmeta"
 hash = "506c594ce2645e144c78ee79f047f0357bee32f604eaaa6f4f32108904ce7355"
 
