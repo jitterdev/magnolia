@@ -806,11 +806,6 @@ hash = "27139c72cf976b8af2eba86da61b5fd4bb7b82e0265fdccb571f642a2d7106fe"
 metafile = true
 
 [[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "01b615b02d50397d22ec78d8bf2bf4707570bef2de06cb473ec3600d203b036d"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "8550d575b7a5a11ae5d19274e01e815ecb78df80bfd0c3af496389877dc52b6b"
 metafile = true
