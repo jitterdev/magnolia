@@ -42,7 +42,7 @@ hash = "020062b61412820bb0fd10b226ce4e3e2e44aea2dc4b89db8e9886ccee638d68"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "2896148bfe0cbe9f69595f644610a696ca0be6a7ead460fbc45fa5d8118c6e30"
+hash = "523346eb1aa729ffeded77c74bdf17694d349b14cd4762c64c94dddf99f6a18d"
 
 [[files]]
 file = "config/farmersrespite-common.toml"
