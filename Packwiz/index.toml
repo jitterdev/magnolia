@@ -846,6 +846,11 @@ hash = "3d3ff8ec2b09bca185deffd34337acafc40001f867eeb40b213056f6cc257f8e"
 metafile = true
 
 [[files]]
+file = "mods/bplb.pw.toml"
+hash = "0dd6ff5eefb66852f86871a2a3e6107f5724256125fd15ba77094524081bff1c"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "eb1adb209e69b854ffa457725c335b28dadadd8b1c38cdba9782b99e700c32c1"
 metafile = true
@@ -1188,11 +1193,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8aa6b67c8edeebbc7fb923449563c17d4c01df00d45ca7441b988c093b30c846"
-metafile = true
-
-[[files]]
-file = "mods/immersive-optimization.pw.toml"
-hash = "d87e5e2f1159d880bcb0b39c9bb1a41ea1cbea0d5e057920a77ad0e45e226ded"
 metafile = true
 
 [[files]]
