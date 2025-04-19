@@ -1196,6 +1196,11 @@ hash = "8aa6b67c8edeebbc7fb923449563c17d4c01df00d45ca7441b988c093b30c846"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "d8a3e10d7a4ceb3345db2f63aef413bee2c18d760eb8570fe3741108ff351187"
+metafile = true
+
+[[files]]
 file = "mods/improved-village-placement.pw.toml"
 hash = "7b1f2bbb5645c08d0a9fccc6eebcbbb4900d9c866d71eb1c870cc91acf74676e"
 metafile = true
