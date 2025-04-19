@@ -996,6 +996,11 @@ hash = "9e444b3cfef7e5874823dc34c529c3ab322fda7ec56d96a06dd3c763bad238df"
 metafile = true
 
 [[files]]
+file = "mods/customtimecycle.pw.toml"
+hash = "c7da7e57ba203ccc237d8a84c4bc96d2c58b58387831127f5b1026e03d085589"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "a0465b93f628a2c6705e553f2d947646739ec02389096263ef727eb97b13096a"
 metafile = true
@@ -1418,6 +1423,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "1283c5ae1428b3753af616e5fc85db0a48326b4b779aaaee138e0e2a4b7051b4"
+metafile = true
+
+[[files]]
+file = "mods/obfuscation_improver.pw.toml"
+hash = "64fb4252c4bb923bff556508cbfcd8e46a99ef608e0d479f450f7ab82adbc693"
 metafile = true
 
 [[files]]

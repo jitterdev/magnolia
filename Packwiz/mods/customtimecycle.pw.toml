@@ -1,0 +1,13 @@
+name = "Custom Time Cycle"
+filename = "customtimecycle-0.1.4-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xuf4fk5b/versions/bc0TAOH3/customtimecycle-0.1.4-1.21.1.jar"
+hash-format = "sha1"
+hash = "1a31a063212b3642ad99f3e04364bc901b8bcc20"
+
+[update]
+[update.modrinth]
+mod-id = "Xuf4fk5b"
+version = "bc0TAOH3"
