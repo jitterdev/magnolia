@@ -1741,11 +1741,6 @@ hash = "c664a2d4e53ff7fdf8e5098bebceb08aad6726cc7f91f3dbe0170a4ca969b00a"
 metafile = true
 
 [[files]]
-file = "mods/void-fog.pw.toml"
-hash = "9ce0544213acaf108cd1c3a22722ddc6e260d081ddc7bc14bea766ead203a4f3"
-metafile = true
-
-[[files]]
 file = "mods/vulpine.pw.toml"
 hash = "bab9931f8b86da9b019bb48f2d53d76ca4ec3119266d7d20a03dc823ae55c076"
 metafile = true
