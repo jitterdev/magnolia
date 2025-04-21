@@ -2,7 +2,6 @@
 	"powers": [
 		"origins_minus:echolocation",
 		"origins_minus:rappel",
-		"origins_minus:sticky_situations",
 		"origins:no_cobweb_slowdown",
         "pht:climbing"
 	],

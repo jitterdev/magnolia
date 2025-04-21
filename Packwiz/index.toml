@@ -18,7 +18,7 @@ hash = "01fbdd1cf477e3a7e47efda3ed343a79158e8821997009bfe831483bb49e65eb"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "62450d3c7a4f11f7672287d7852b131f273fd67525282ee7bd45457aa73b5392"
+hash = "58f8d341582484dec174d2908621c9d295ef103eeb0b548d42ab17bcdd577fd5"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
@@ -45,16 +45,8 @@ file = "config/fabric_loader_dependencies.json"
 hash = "523346eb1aa729ffeded77c74bdf17694d349b14cd4762c64c94dddf99f6a18d"
 
 [[files]]
-file = "config/farmersrespite-common.toml"
-hash = "dcc9897957881a4de41c468652d21a3eb0d98897cbe613f3be97b9fc22e8408f"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "52676c32fa8db48a4010253bb35cc132c1cb57c68eb9c40643713aacdd0f2ce3"
-
-[[files]]
-file = "config/immersive_optimization.json"
-hash = "0c1faeea67f5ea93fc58f5ba6ca6381e48e727a0cb1a5be08a2441edeb7d934f"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -83,6 +75,10 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 [[files]]
 file = "config/paxi/datapacks/Perlinescent v0.28.4.zip"
 hash = "1baf7c1df2a8343dc405417d96372d8783a0c9a71134005acbdce5a3161fa525"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/enchantment/wounding.json"
+hash = "e4ee4d07f248b6a8228133572f187808ebc47611e6bd4368409c9ab7bbecebaf"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/big_weapons.json"
@@ -349,6 +345,10 @@ file = "config/paxi/datapacks/flower_power/data/minecraft/tags/bookshelf_books.j
 hash = "7c656e4404014039e0431917f8698e2f9f14e9bc8ba849b1059f0e6a8a2512db"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/tags/enchantment/non_treasure.json"
+hash = "01eb151dae8d7ed070e20b763e9fc3e7b9eaef0a0b02bac76df53eba68b17a47"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/nadir/enchantment/anti_entropy_curse.json"
 hash = "a85fdb6b43e4dacc4cdac7395389c7d42d94816ed530472209e72d80509d8d28"
 
@@ -385,10 +385,6 @@ file = "config/paxi/datapacks/flower_power/data/nadir/enchantment/magic_protecti
 hash = "e0892ab47fdb6c27c10e42049765cb1414d71cba29c07fa61b25601853f48c9a"
 
 [[files]]
-file = "config/paxi/datapacks/flower_power/data/nadir/enchantment/magma_walker.json"
-hash = "4b56a16feae8307ddebe567d942d98b6eed5e2640226607ef3a5ef090f66754b"
-
-[[files]]
 file = "config/paxi/datapacks/flower_power/data/nadir/enchantment/recklessness_curse.json"
 hash = "1e80eea242e386aa144a10142725cdbbfdbd36b9eec754077f8144d94b17e276"
 
@@ -415,6 +411,10 @@ hash = "a58126daf6ad84a47244471c59814c5c24c75efd52de43be631cde560d3349d9"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/nadir/enchantment/swiftfooted.json"
 hash = "8fd90dd10cc79858c7a993e812eb4fa10a45e705503ec611cf2549c7d6cad66b"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/nadir/function/enchantments/sharpshooter/edit_arrow.mcfunction"
+hash = "31573aba1192e5306e0d2b9a5fb256b85de5f7dad78dd8d788d2274af4aad50c"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/nadir/tags/damage_type/is_magic.json"
@@ -490,7 +490,7 @@ hash = "b6e60edd1dceb78c7f0fbd7464e22ee6e0f2735e538f1931f227af5ca2424bd0"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/origins_minus/origins/weaver.json"
-hash = "f936f962698c47d7a3931fb1a45e3b2960375f6e7b9c9f2d3a0f1765c4616d06"
+hash = "dcb8b808518459e6a6337a8bc060e40f685971d0e607cf51ce6fbdd1a01e3250"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/origins_minus/powers/carefree.json"
@@ -654,11 +654,11 @@ hash = "d525670049157c1351c8eb89002f20efa5eece316c8750c6e23857ae873429e4"
 
 [[files]]
 file = "config/rpgdifficulty.json"
-hash = "3fba9d2c3515088b7355f62bbac7b4cec6df7183b4ec4ff79e3fd6ebde059a66"
+hash = "6bd58b46b194c56acd2764915e6b6b6ab368cd98657a9d2899c2c391ec559aad"
 
 [[files]]
 file = "config/servercore/config.yml"
-hash = "8c96daeb2a046429118ce58638901cc404d3943494ecd5239ab754d8838fdd90"
+hash = "c80c5a6205a41b2c5a23b2e53b7c0c63ba5711cffc2a9522352f63295f62c1d6"
 
 [[files]]
 file = "config/servercore/optimizations.yml"
@@ -739,6 +739,18 @@ hash = "7a5d06bb65a05beabb48f74a7f9aead1ddd88cbed5033ce8a284c1504a545eac"
 [[files]]
 file = "config/vulpine/vulpine.toml"
 hash = "992fb56d24e67439d7fbfad612b895a5454f43a21beb745d93aa0549ee3856f6"
+
+[[files]]
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "710f4ae8546ec0b0b31c8f825140fda547717311148e18d091ad1d87cd4ddb35"
+
+[[files]]
+file = "configureddefaults/servers.dat"
+hash = "7e1f56cea3530d1292917890f23893a15c3b6de366512848de8e360f19696c10"
 
 [[files]]
 file = "mods/abandoned-villages.pw.toml"
@@ -916,6 +928,11 @@ hash = "5d343f1b9dd2da58dd4828fcccce26c18e5cd36bc3e52b6e1e9ce8b8eb17b966"
 metafile = true
 
 [[files]]
+file = "mods/chunk-activity-tracker.pw.toml"
+hash = "6ebea57cbdab59bdce077f7a74616c858ef5bdd3c423e752a635ec4fb7926f29"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "d457fa56898763cc2d8408502df702caafda19b02e8bf80de7a45e1d97fe5b48"
 metafile = true
@@ -933,6 +950,11 @@ metafile = true
 [[files]]
 file = "mods/colorful-books.pw.toml"
 hash = "012d44df6beb54afc81c67d287a710387ec089aa7c6f6ecf95f5475a2eb942dc"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "cb233bfdc2178fb4e6b55cb305a21b2012798f3df5b9c98ccc9550768b4e43cf"
 metafile = true
 
 [[files]]
@@ -1026,6 +1048,11 @@ hash = "ac27fbe81085ad6b707953789d14f3a582d6c882996592c43e676bed3fb4b6e9"
 metafile = true
 
 [[files]]
+file = "mods/does-it-tick.pw.toml"
+hash = "7e4744c1f8a5509b127f7e8c5f532409d07da1dae66bcf09b76261d2bef1ef1a"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "bf71a80fbab2a1f16a11be7195bfebd1d199c85aba4f24266a7a659b0bd1a8a6"
 metafile = true
@@ -1058,6 +1085,16 @@ metafile = true
 [[files]]
 file = "mods/elytra-physics.pw.toml"
 hash = "35e0846353a9f68f9a59d983ff52009b46f79a8c3de3ef4888abd0467f7a4c0f"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "a8579482813e686001812b5fb065438cd063034675a54343c7a21707e58ef615"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "b5e0b8a9ebd039e93d51baabcc21683a9da2d071f38da5092a044ad13914fb32"
 metafile = true
 
 [[files]]
@@ -1198,11 +1235,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8aa6b67c8edeebbc7fb923449563c17d4c01df00d45ca7441b988c093b30c846"
-metafile = true
-
-[[files]]
-file = "mods/immersive-optimization.pw.toml"
-hash = "d8a3e10d7a4ceb3345db2f63aef413bee2c18d760eb8570fe3741108ff351187"
 metafile = true
 
 [[files]]
@@ -1681,6 +1713,11 @@ hash = "35b152eeb7359d0b8d007523f76e8e732f3be9f61a407209f988f7fdec487840"
 metafile = true
 
 [[files]]
+file = "mods/surface-mushrooms.pw.toml"
+hash = "a14b18f4375d353a0480eb88861d9b88a9e41e003ca161fe34b2b1996f22ce40"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "52fe561d29125d391795de8e7a9d240674d3eb3ba5675aca264b8c0e66d22c50"
 metafile = true
@@ -1752,7 +1789,7 @@ metafile = true
 
 [[files]]
 file = "mods/vulpine.pw.toml"
-hash = "bab9931f8b86da9b019bb48f2d53d76ca4ec3119266d7d20a03dc823ae55c076"
+hash = "30a10955b73952bf19cd7f3f1e334f1337f645d1f7ab7b9056819b5a4142f83e"
 metafile = true
 
 [[files]]
@@ -1781,11 +1818,6 @@ hash = "6b11639f27770da73432d4ef3e4d0470fa921edf23da6f42091292a03fb08ea0"
 metafile = true
 
 [[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "e22bce9223e2d436a4177146acfaf65f7c0588fcb4ab6a04ae3317eed2c4d5c9"
 metafile = true
@@ -1804,15 +1836,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "2ae5b0fa11f7c2ea80631e7dd0ca15c4f94349415671cd403cfc8a59fcda1bdd"
 metafile = true
-
-[[files]]
-file = "yosbr/README.md"
-hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
-
-[[files]]
-file = "yosbr/options.txt"
-hash = "710f4ae8546ec0b0b31c8f825140fda547717311148e18d091ad1d87cd4ddb35"
-
-[[files]]
-file = "yosbr/servers.dat"
-hash = "7e1f56cea3530d1292917890f23893a15c3b6de366512848de8e360f19696c10"

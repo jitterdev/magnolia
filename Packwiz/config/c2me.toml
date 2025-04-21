@@ -21,4 +21,4 @@ defaultGlobalExecutorParallelismExpression = "max(1,min(if(is_client,(cpus/2.66+
 	
 [vanillaWorldGenOptimizations]
 	useDensityFunctionCompiler = true
-	optimizeAquifer = false
+	optimizeAquifer = true
