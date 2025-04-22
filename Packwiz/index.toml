@@ -25,6 +25,10 @@ file = "config/carpet/default_carpet.conf"
 hash = "6278c7725a8a8b50343923c023f975b6d5696fa7bcb80251873baeb6701c8658"
 
 [[files]]
+file = "config/carryon-common.json"
+hash = "70fa579798dfbfb8276d9078f76a79d76341b207e8cf9ee95c3f0964a175201a"
+
+[[files]]
 file = "config/charmonium-client.toml"
 hash = "240acae77402d2e2712abd9adcc8930c5b1503b16b6b864466ccf8e094e47463"
 
