@@ -1109,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchiridion.pw.toml"
-hash = "ccd0d378246e950a6ce93ba3b57e64908d422f9f592fd33cf439c2bbde5996e9"
+hash = "bad26ee805ba2724cb109c4d588660597e78c982159973894c5bd75dcfab955a"
 metafile = true
 
 [[files]]
