@@ -1,0 +1,13 @@
+name = "Executive"
+filename = "ExecutiveOrders-0.2.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WZQPK4Ya/versions/379uho8d/ExecutiveOrders-0.2.3-1.21.1.jar"
+hash-format = "sha1"
+hash = "8586bb2696d34227fd446eb5f41a32e7b1ca32a8"
+
+[update]
+[update.modrinth]
+mod-id = "WZQPK4Ya"
+version = "379uho8d"

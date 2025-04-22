@@ -50,7 +50,7 @@ hash = "52676c32fa8db48a4010253bb35cc132c1cb57c68eb9c40643713aacdd0f2ce3"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "3d7e56757489d78f3a4956ec9dd642d2e57ebc00f5ebebc95595221ea1d308e1"
+hash = "398634e0eed50e6db161cce53aefb44ce0dd1a2a1d3810555eab7d4e2eb9f0b8"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -813,6 +813,11 @@ hash = "ab72b447ed976a93ce1124524295ab8a469438b741bdc224aefb1ad7d881e0cf"
 metafile = true
 
 [[files]]
+file = "mods/asahi.pw.toml"
+hash = "c91150c2f4f92f6876f5a8362482c076e5082a299b8e3cfd26b015b9da4af2d8"
+metafile = true
+
+[[files]]
 file = "mods/astrocraft.pw.toml"
 hash = "27139c72cf976b8af2eba86da61b5fd4bb7b82e0265fdccb571f642a2d7106fe"
 metafile = true
@@ -1120,6 +1125,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "d24677667b6c4c73f1ceaee7fef5bcd90bdafe8bfaaa0375318acb59b60e6e8f"
+metafile = true
+
+[[files]]
+file = "mods/executive.pw.toml"
+hash = "e6a1e99a04db1fbe81411817995a782103cbc7becb608a0702fe0cf27466ff10"
 metafile = true
 
 [[files]]
