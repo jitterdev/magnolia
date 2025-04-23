@@ -817,11 +817,6 @@ hash = "ab72b447ed976a93ce1124524295ab8a469438b741bdc224aefb1ad7d881e0cf"
 metafile = true
 
 [[files]]
-file = "mods/asahi.pw.toml"
-hash = "c91150c2f4f92f6876f5a8362482c076e5082a299b8e3cfd26b015b9da4af2d8"
-metafile = true
-
-[[files]]
 file = "mods/astrocraft.pw.toml"
 hash = "27139c72cf976b8af2eba86da61b5fd4bb7b82e0265fdccb571f642a2d7106fe"
 metafile = true
