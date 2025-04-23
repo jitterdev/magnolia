@@ -1,13 +1,7 @@
-name = "Executive"
-filename = "ExecutiveOrders-0.2.3-1.21.1.jar"
-side = "both"
+name = "executive"
+filename = "ExecutiveOrders-0.2.2-1.21.1.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/WZQPK4Ya/versions/379uho8d/ExecutiveOrders-0.2.3-1.21.1.jar"
-hash-format = "sha1"
-hash = "8586bb2696d34227fd446eb5f41a32e7b1ca32a8"
-
-[update]
-[update.modrinth]
-mod-id = "WZQPK4Ya"
-version = "379uho8d"
+url = "https://raw.githubusercontent.com/jitterdev/magnolia/master/mods/ExecutiveOrders-0.2.2-1.21.1.jar"
+hash-format = "sha256"
+hash = "cec2d8a671b717617d678494155db8d3537ae7dcb2ea1fdf52589f933e6147fa"
