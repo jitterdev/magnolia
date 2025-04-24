@@ -49,9 +49,8 @@
     "enchiridion:exhilarating",
     "enchiridion:reach",
     "enchiridion:jousting",
-    "enchiridion:experienced",
-    "executiveorders:arbalest"
-  ],
+    "enchiridion:experienced"
+    ],
   "invertedList": false,
   "overhaulEnchantingTable": "NON_TREASURE",
   "singleLevelMode": false,

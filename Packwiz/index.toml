@@ -34,7 +34,7 @@ hash = "240acae77402d2e2712abd9adcc8930c5b1503b16b6b864466ccf8e094e47463"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "91ed78ce030e8be365c649740fbfc6e4d3a18697a648744f6ca0af592772e68f"
+hash = "c25a7b83970c9605af84d8d2a18df0d73c45906403b10112fdc9f40f86686e6c"
 
 [[files]]
 file = "config/enhanced_bes.properties"
