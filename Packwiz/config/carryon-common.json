@@ -75,6 +75,8 @@
       "affinity:creative_aethum_flux_cache",
       "affinity:world_pin",
       "affinity:*",
+      "minecraft:vault",
+      "minecraft:trial_spawner",
       "#forge:immovable",
       "#forge:relocation_not_supported",
       "#neoforge:immovable",

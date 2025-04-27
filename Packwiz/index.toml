@@ -26,7 +26,7 @@ hash = "6278c7725a8a8b50343923c023f975b6d5696fa7bcb80251873baeb6701c8658"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "70fa579798dfbfb8276d9078f76a79d76341b207e8cf9ee95c3f0964a175201a"
+hash = "4cb918d89a31eeedef4824567490f094a920c142a13ab679de57ba6ac797a3c4"
 
 [[files]]
 file = "config/charmonium-client.toml"
@@ -1130,11 +1130,6 @@ metafile = true
 [[files]]
 file = "mods/enchancement.pw.toml"
 hash = "be28030207cb0b657a2c051cfcb2c0a810adfd85222dff44782131720c95b4f8"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-level-cap-indicator.pw.toml"
-hash = "698523c7c06b7d5bd93d151b400e9b997fd80293d66768268716ba12a3ddd9da"
 metafile = true
 
 [[files]]
