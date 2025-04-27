@@ -1,0 +1,13 @@
+name = "Happy Ghast Legacy"
+filename = "happy_ghast_legacy-1.3-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zi5opIfD/versions/r6qxa1SN/happy_ghast_legacy-1.3-1.21.1-fabric.jar"
+hash-format = "sha1"
+hash = "72d1041000315bfc2bac0bffd082bc35ede6bc74"
+
+[update]
+[update.modrinth]
+mod-id = "zi5opIfD"
+version = "r6qxa1SN"

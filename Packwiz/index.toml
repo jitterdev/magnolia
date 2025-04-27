@@ -34,7 +34,7 @@ hash = "240acae77402d2e2712abd9adcc8930c5b1503b16b6b864466ccf8e094e47463"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "c25a7b83970c9605af84d8d2a18df0d73c45906403b10112fdc9f40f86686e6c"
+hash = "a673d677502396dc994b88f7f8788958bf2b966af2d964ecca104f9ded26d640"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -151,6 +151,14 @@ hash = "770b845d863b270fcc3b1ffc3d510b56b1ead6828fd76b8dd08204f899968360"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/bushierflowers/loot_table/blocks/grown_wither_rose.json"
 hash = "4d41fff43a1e5dc199d604b03fe0253784bf267542e8b8d8711e96a1c39d760f"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/enchancement/enchantment/gale.json"
+hash = "cad94fe97bd0a8bc750f093435b5dc1006228f666dd30576476fe8e31c01669d"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/marksman/tags/item/coin.json"
+hash = "0f2e036bad5825a1dd70258a4b6a287ddbb3388c90516eeaef22b8003bf371d5"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/enchantment/aqua_affinity.json"
@@ -350,7 +358,7 @@ hash = "7c656e4404014039e0431917f8698e2f9f14e9bc8ba849b1059f0e6a8a2512db"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/tags/enchantment/non_treasure.json"
-hash = "01eb151dae8d7ed070e20b763e9fc3e7b9eaef0a0b02bac76df53eba68b17a47"
+hash = "8dac7aa306fedc39a910410ae5c6c00aae1d4b917df14b3245a8d6482348f11e"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/nadir/enchantment/anti_entropy_curse.json"
@@ -367,10 +375,6 @@ hash = "cad0a3748c75c46d15e2dd2ad7e78cc56e2629bacc9d7af8a27c8be651bd5a5e"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/nadir/enchantment/failsafe.json"
 hash = "37bc3962d3cd5838c2a4a2d51017fc19335f5a0d69d4b3d52ef70546dd515570"
-
-[[files]]
-file = "config/paxi/datapacks/flower_power/data/nadir/enchantment/familiarity.json"
-hash = "072cb178659c032a8334728f6e799b29cf4e5bb0b85f86503d03441e654d86e1"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/nadir/enchantment/flow.json"
@@ -533,8 +537,20 @@ file = "config/paxi/datapacks/flower_power/data/pht/powers/climbing.json"
 hash = "5b41dfb9ed64dd09a7457e6d9d7fd0677feee2c1b77cf3a6af3dad6dea58b8f4"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/ancient_debris.json"
+hash = "32874aaf2eb158ba20ed0eb3bd861c2f4283f555b5a1d55edae15656de5782c8"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/carmot _staff_smithing_template.json"
+hash = "cb2a17b847eeac660f08dfa798691ffbb0ef45310bc82cf6003650506dedb008"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/pht/recipe/orb_of_origin.json"
 hash = "2e61e87241ed1e27f55c91a5b33953751f37d9b5a28b9c382a52ca02ea5cf728"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/white_aegis_sword.json"
+hash = "647aaef60be96086d3999a8a2526fa8d4ab8d65c631f2972ba20a886ca2d3ddd"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/shyvvtrials/enchantment/penetration.json"
@@ -847,6 +863,11 @@ hash = "31d56013cb89ba9995db5044a73956602a0614eed032559ec8896643e8336e8b"
 metafile = true
 
 [[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "600b3dd60d22808480a8264e104c116e93179b1a7ed72ae3e01ddbd7eea524bc"
+metafile = true
+
+[[files]]
 file = "mods/big-rod-energy.pw.toml"
 hash = "38f422d044db0bd45be5a00509580ef2d1ea51d77214ec852d24f5d1dbfe07c5"
 metafile = true
@@ -1112,6 +1133,11 @@ hash = "be28030207cb0b657a2c051cfcb2c0a810adfd85222dff44782131720c95b4f8"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-level-cap-indicator.pw.toml"
+hash = "698523c7c06b7d5bd93d151b400e9b997fd80293d66768268716ba12a3ddd9da"
+metafile = true
+
+[[files]]
 file = "mods/enchiridion.pw.toml"
 hash = "bad26ee805ba2724cb109c4d588660597e78c982159973894c5bd75dcfab955a"
 metafile = true
@@ -1224,6 +1250,16 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "cbe2b4d3b946c2753432343196866e84f14c4c10ffc1f173a67cd59faed8af2d"
+metafile = true
+
+[[files]]
+file = "mods/happy-ghast-legacy.pw.toml"
+hash = "721c30aa0a98fe342de1e7b50b5f2a55dc58928e17b8826dcfc72cd205468739"
+metafile = true
+
+[[files]]
+file = "mods/headpat.pw.toml"
+hash = "e0e81f62da4b01a93aef1b9def237fcc3ad7f244ece218e47658c73db2e6151e"
 metafile = true
 
 [[files]]
@@ -1517,8 +1553,18 @@ hash = "39e64d09b38318d84cfc9415d1f1184d712c066c043369f708c45d592d0eb874"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "436931c864de4e4f981c2f93a32f1913f41889681ddfba3446cd2fa128b36ad7"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "7ff2e2177340f4ccfacdc5032de28fa944823be051b92932bf43870a715eddc7"
+metafile = true
+
+[[files]]
+file = "mods/polysit.pw.toml"
+hash = "75438a06d2ddcaa686a2f2fcbe493afe2e66f6a27d57356ae679ca9fb16e4a68"
 metafile = true
 
 [[files]]

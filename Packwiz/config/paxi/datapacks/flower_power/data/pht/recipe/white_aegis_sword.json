@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": {
+		"item": "mythicmetals:midas_gold_sword"
+	},
+	"addition": {
+		"item": "shyvvtrials:dense_ingot"
+	},
+	"template": {
+		"item": "mythicmetals:aegis_smithing_template"
+	},
+	"result": {
+		"id": "mythicmetals:white_aegis_sword"
+	}
+}

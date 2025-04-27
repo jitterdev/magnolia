@@ -1,0 +1,13 @@
+name = "Polysit"
+filename = "polysit-0.9.3-blanketcon.1+mc.1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/G9eJHDO2/versions/mspC2wDR/polysit-0.9.3-blanketcon.1%2Bmc.1.21.1.jar"
+hash-format = "sha1"
+hash = "e7e59f73e6e82d7ac1b2a2dd8ed9180e358577c0"
+
+[update]
+[update.modrinth]
+mod-id = "G9eJHDO2"
+version = "mspC2wDR"

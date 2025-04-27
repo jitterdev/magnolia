@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XBX",
+		"OAO",
+		"XCX"
+	],
+	"key": {
+		"A": {
+			"item": "minecraft:smooth_basalt"
+		},
+		"O": {
+			"item": "mythicmetals:carmot_ingot"
+		},
+		"X": {
+			"item": "minecraft:diamond"
+		},
+		"C": {
+			"item": "mythicmetals:carmot_block"
+		},
+		"B": {
+			"item": "mythicmetals:carmot_stone"
+		}
+	},
+	"result": {
+		"id": "mythicmetals:carmot_staff_smithing_template"
+	}
+}

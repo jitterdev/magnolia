@@ -3,6 +3,17 @@
         "affinity:wounding",
         "affinity:updog",
         "affinity:prosecute",
-        "affinity:execute"
+        "affinity:execute",
+        "nadir:scholar",
+        "nadir:step",
+        "nadir:failsafe",
+        "nadir:flow",
+        "nadir:grip",
+        "nadir:lucky",
+        "nadir:magic_protection",
+        "nadir:sharpshooter",
+        "nadir:spring",
+        "nadir:swift_strike",
+        "nadir:swiftfooted"
     ]
 }
