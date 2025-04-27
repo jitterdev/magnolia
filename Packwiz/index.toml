@@ -34,7 +34,7 @@ hash = "240acae77402d2e2712abd9adcc8930c5b1503b16b6b864466ccf8e094e47463"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "a673d677502396dc994b88f7f8788958bf2b966af2d964ecca104f9ded26d640"
+hash = "88b3b22710b55dbd3bee662012190b19b9272f247ea5eca4e16ec0b0ac7fd84e"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -646,7 +646,7 @@ hash = "954f9acd42422dc086285c214b9b6670bddb4f7fedb1237a4a99488ca42fa34b"
 
 [[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/nadir/lang/en_us.json"
-hash = "58c48515811e270be9e5b4aa079f8731b3250000cb1cdd48709383b66a5c6c50"
+hash = "368298804d687a2132604c2381777e9b7f5c4246174880f13793809ce6ae55f4"
 
 [[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/natures_spirit/textures/block/chert_diamond_ore.png"

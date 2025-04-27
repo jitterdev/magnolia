@@ -50,7 +50,8 @@
     "enchiridion:reach",
     "enchiridion:jousting",
     "enchiridion:experienced",
-    "enchiridion:vaulting"
+    "enchiridion:vaulting",
+    "executiveorders:execution"
     ],
   "invertedList": false,
   "overhaulEnchantingTable": "NON_TREASURE",
@@ -65,7 +66,7 @@
   "rebalanceEquipment": true,
   "rebalanceProjectiles": false,
   "rebalanceStatusEffects": true,
-  "toggleablePassives": true,
+  "toggleablePassives": false,
   "weaponEnchantmentCooldownRequirement": 0.7,
   "maxFellTreesBlocks": 1024,
   "maxFellTreesHorizontalLength": 7,
