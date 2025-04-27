@@ -541,7 +541,7 @@ file = "config/paxi/datapacks/flower_power/data/pht/recipe/ancient_debris.json"
 hash = "32874aaf2eb158ba20ed0eb3bd861c2f4283f555b5a1d55edae15656de5782c8"
 
 [[files]]
-file = "config/paxi/datapacks/flower_power/data/pht/recipe/carmot _staff_smithing_template.json"
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/carmot_staff_smithing_template.json"
 hash = "cb2a17b847eeac660f08dfa798691ffbb0ef45310bc82cf6003650506dedb008"
 
 [[files]]
@@ -1248,11 +1248,6 @@ hash = "cbe2b4d3b946c2753432343196866e84f14c4c10ffc1f173a67cd59faed8af2d"
 metafile = true
 
 [[files]]
-file = "mods/happy-ghast-legacy.pw.toml"
-hash = "721c30aa0a98fe342de1e7b50b5f2a55dc58928e17b8826dcfc72cd205468739"
-metafile = true
-
-[[files]]
 file = "mods/headpat.pw.toml"
 hash = "e0e81f62da4b01a93aef1b9def237fcc3ad7f244ece218e47658c73db2e6151e"
 metafile = true
@@ -1549,7 +1544,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "436931c864de4e4f981c2f93a32f1913f41889681ddfba3446cd2fa128b36ad7"
+hash = "8ed245dd545ddbceb4302c171cb802aaa149863a7d2933265cb825bdc03bb42d"
 metafile = true
 
 [[files]]
@@ -1559,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "mods/polysit.pw.toml"
-hash = "75438a06d2ddcaa686a2f2fcbe493afe2e66f6a27d57356ae679ca9fb16e4a68"
+hash = "3982df73f3da80bbb3750cd5fef6d029c2a9288d8e1836dd3172113b6fc78e26"
 metafile = true
 
 [[files]]
