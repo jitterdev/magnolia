@@ -85,6 +85,10 @@ file = "config/paxi/datapacks/flower_power/data/affinity/enchantment/wounding.js
 hash = "e4ee4d07f248b6a8228133572f187808ebc47611e6bd4368409c9ab7bbecebaf"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/aspen_infusion/archetypal_iron_ring.json"
+hash = "4035c4fe2ccb8f94ed8b5b55192df58871cf2010f90aa38892e29d305ec7e919"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/big_weapons.json"
 hash = "5649bc423ebd90e1393f2960c2cf93623323d2deea29ad4bd8f42849384ca763"
 
