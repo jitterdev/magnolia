@@ -573,6 +573,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/enchancement/lang/en_us.json"
+hash = "e6de1f7c67271e7de2510bd5b6cb767b4b3e456e2a6965f65931b2b603368356"
+
+[[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/farmersdelight/textures/item/diamond_knife.png"
 hash = "d62882dd022df25aad4863e10840dda1d56f5af4d71826c2c6add7c430d798fe"
 
