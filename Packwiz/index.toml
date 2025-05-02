@@ -901,6 +901,11 @@ hash = "ab72b447ed976a93ce1124524295ab8a469438b741bdc224aefb1ad7d881e0cf"
 metafile = true
 
 [[files]]
+file = "mods/arrowhead.pw.toml"
+hash = "c9575d852f61c657009d259a4e42d887fed7a6bf9d0c2534a4977a8e82891037"
+metafile = true
+
+[[files]]
 file = "mods/astrocraft.pw.toml"
 hash = "27139c72cf976b8af2eba86da61b5fd4bb7b82e0265fdccb571f642a2d7106fe"
 metafile = true
@@ -1791,6 +1796,11 @@ hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
+file = "mods/spectrum.pw.toml"
+hash = "d68a9226884b46441d10561ba936b5563c7ae180f1f177556aea75bfc25c6ca3"
+metafile = true
+
+[[files]]
 file = "mods/splasher.pw.toml"
 hash = "2023c4d7ac03cc657f303642f890a645a1db07a26b0b046416e2f6ecda88c29b"
 metafile = true
@@ -1923,6 +1933,11 @@ metafile = true
 [[files]]
 file = "mods/vulpine.pw.toml"
 hash = "30a10955b73952bf19cd7f3f1e334f1337f645d1f7ab7b9056819b5a4142f83e"
+metafile = true
+
+[[files]]
+file = "mods/wcat.pw.toml"
+hash = "3d53685cee60d9a78ab587920f175113d96a493b205e0c7ba3e360ff6349653d"
 metafile = true
 
 [[files]]

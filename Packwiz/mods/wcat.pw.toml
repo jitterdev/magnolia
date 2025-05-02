@@ -1,0 +1,7 @@
+name = "wcat"
+filename = "who-cares-about-that-1.0.0.jar"
+
+[download]
+url = "https://raw.githubusercontent.com/jitterdev/magnolia/master/mods/who-cares-about-that-1.0.0.jar"
+hash-format = "sha256"
+hash = "a5f6e7b0ce88c7b504fefbf5e7788353353fd4fea73bc39c0da3ec91173fb183"
