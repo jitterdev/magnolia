@@ -1,15 +1,15 @@
 name = "magnolia"
 author = "Jitter"
-version = "2.0.0"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ef48b79854a8662a4973aa61c3fa0dc68ce3e0437d12b6c1dbd4258bef9de55e"
+hash = "1ef0264cf80f536c9edcada7c4ae10d5e1afa10040c34430623f8238733e10f1"
 
 [versions]
-fabric = "0.16.12"
+fabric = "0.16.14"
 minecraft = "1.21.1"
 
 [options]

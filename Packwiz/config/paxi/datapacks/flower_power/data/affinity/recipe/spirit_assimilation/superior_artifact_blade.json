@@ -1,0 +1,76 @@
+{
+  "type": "affinity:spirit_assimilation",
+  "duration": 1000,
+  "flux_cost_per_tick": 80,
+  "transfer_components_index": 0,
+  "core_inputs": [
+    {
+      "item": "affinity:strengthened_artifact_blade"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "affinity:synthetic_dragon_heart"
+    }
+  ],
+  "socle_inputs": [
+    {
+      "item": "minecraft:dragon_head"
+    },
+    {
+      "item": "affinity:vicious_wisp_matter"
+    },
+    {
+      "item": "minecraft:end_stone"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "mythicmetals:metallurgium_ingot"
+    },
+    {
+      "item": "affinity:crystalline_wisp_matter_composite"
+    },
+    {
+      "item": "affinity:vicious_wisp_matter"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "mythicmetals:metallurgium_ingot"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "affinity:vicious_wisp_matter"
+    },
+    {
+      "item": "affinity:crystalline_wisp_matter_composite"
+    },
+    {
+      "item": "mythicmetals:metallurgium_ingot"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "minecraft:end_stone"
+    },
+    {
+      "item": "affinity:vicious_wisp_matter"
+    }
+  ],
+  "output": {
+    "id": "affinity:superior_artifact_blade"
+  },
+  "entity": {
+    "id": "minecraft:enderman"
+  }
+}

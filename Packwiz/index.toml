@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "0751ac0f3bcd4cb9aa7e16127ecb2123bf6774a1cfd81043f1d365f6663c3d9c"
 
 [[files]]
+file = "config/Spectrum.json5"
+hash = "c8cd42652694532db7b388a2628bf783ae3d7d274cff9eb7bb941f4d91683a24"
+
+[[files]]
 file = "config/ambientsounds-client.json"
 hash = "7a7eb095d2a9e0d33989671cce5ffff74f79df71d4d12d8084b0448f47bd4889"
 
@@ -34,7 +38,7 @@ hash = "240acae77402d2e2712abd9adcc8930c5b1503b16b6b864466ccf8e094e47463"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "c4a0532366bc315df5ffa1651df5e041ceaf18dc368cb793c8212afde8c1e845"
+hash = "630cec3568267e5d4f56dc2615fe615db43068345df3e7a8d1c4c171fb2f6c67"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -87,6 +91,38 @@ hash = "e4ee4d07f248b6a8228133572f187808ebc47611e6bd4368409c9ab7bbecebaf"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/affinity/recipe/aspen_infusion/archetypal_iron_ring.json"
 hash = "4035c4fe2ccb8f94ed8b5b55192df58871cf2010f90aa38892e29d305ec7e919"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/aspen_infusion/azalea_bow.json"
+hash = "835d2f5e37d8f23e1f94649a4a8f98cf4255ef42d87714a05be9bbb23d2af955"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/aspen_infusion/featherweight_ring.json"
+hash = "04a7829e81c3f62b1fa2df937854026bd270163f97b011d7a9b8a472cc30dd37"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/spirit_assimilation/bastion_enchantment.json"
+hash = "d2875a7e3a74eacc0549059e5cc5625324942e1f2374d27213d61f6f358572f7"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/spirit_assimilation/berserker_enchantment.json"
+hash = "e29bb44eda9098ef672a6bf31e0c2edffae800f0496e8bbf609d0a8d7891758c"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/spirit_assimilation/evade_ring.json"
+hash = "8eb98e4d87fd31cfc2911dd57ce94af9a6fc30a9cc9d6c71637ee8696ebbd81a"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/spirit_assimilation/gravecaller_enchantment.json"
+hash = "4117425a6b3adc50180dd4b72fc24b528181acb7b8dff19a73cd35fc2f5ba5f2"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/spirit_assimilation/strengthened_artifact_blade.json"
+hash = "a8e72cc55fcdca2490e162c733d186b1494f1a2dffac0c422e48c8cd3a7309b9"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/spirit_assimilation/superior_artifact_blade.json"
+hash = "17cada2af717a37050a4f6cf242652c035e283cdd94ac7b154ee388c79f59b27"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/big_weapons.json"
@@ -163,6 +199,26 @@ hash = "cad94fe97bd0a8bc750f093435b5dc1006228f666dd30576476fe8e31c01669d"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/marksman/tags/item/coin.json"
 hash = "0f2e036bad5825a1dd70258a4b6a287ddbb3388c90516eeaef22b8003bf371d5"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/biome/end_barrens.json"
+hash = "936320b900bd4a00e767424b80fec48cd0550fe6eeb0e744fe3b64eda9094aa3"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/biome/end_highlands.json"
+hash = "9e4c00a5a8bd60ac58af8363bdbd30ceaddf2525533bd53f3c870304ca123e01"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/biome/small_end_islands.json"
+hash = "6f4253ae7cf1bf840475f282739392269cd7784a259e739d497a81cc022a64c3"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/biome/the_end.json"
+hash = "c9ad0032940a1da89007e999bc7cc3819d1303b5822342ed3fa758d9ee70dc5e"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/dimension/the_end.json"
+hash = "da6727d944cfe1f837bee317775c78083d86a63107dd646a9d53f0d76cf90580"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/enchantment/aqua_affinity.json"
@@ -331,6 +387,10 @@ hash = "0cf95bbaa382b11f70065955c9160b38f86f3429382f8ef8ffd81e2bb93f948c"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/enchantment/wind_burst.json"
 hash = "d0fbe1c97f977fb24a6e293b8097a5aa9ecfc4a6c86bc741fcf51d1d5be47537"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/loot_table/entities/enderman.json"
+hash = "2cba1b5f46fa25a470870cd588fcf22c3899a45bb9f442e41bc7c8a682bd2f2a"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/recipe/activator_rail.json"
@@ -1167,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1c341101ca7c63268c2e392b4f72534bb0f6ab72dd40fce3f0fdd5c670abe1f2"
+hash = "4e96a229c9420ca87abaca52c3cd7c7689ab38478cb3a96d24c5a207008dea14"
 metafile = true
 
 [[files]]
@@ -1253,6 +1313,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "cbe2b4d3b946c2753432343196866e84f14c4c10ffc1f173a67cd59faed8af2d"
+metafile = true
+
+[[files]]
+file = "mods/happy-ghast-legacy.pw.toml"
+hash = "a49ca2db5b693522b27beac41e76836b3edde8a675b366fffe8d3968f117921b"
 metafile = true
 
 [[files]]
@@ -1416,6 +1481,11 @@ hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "5e1aa8f9f2d92ead625b4476529616fb18f57ce2da61e4df5536401b44fa600f"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "145e7c3abbcc6806fa49d3c2fbb8b7dd84255626c91a894d6e3c1ee3fe04e615"
 metafile = true
@@ -1486,8 +1556,8 @@ hash = "f80f45f4db1eff307c014f826737b5db5b2297f017182e7adca72815984a9dae"
 metafile = true
 
 [[files]]
-file = "mods/no-end.pw.toml"
-hash = "8ba0d2ffd663b6b5a4303b0c484c532a717fecd1a7e44f4c24e70ba9efb6c6ad"
+file = "mods/no-dim.pw.toml"
+hash = "da7550564c36ca01640e2e5b2e9708e353deb1fc78da3b0f60f65c3f3ba01964"
 metafile = true
 
 [[files]]
@@ -1631,6 +1701,11 @@ hash = "a060ffb7d43887630a2dd19023c07f095edc891847adf9c63c19b9dde38b171e"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "e420835db7e35b39034ecf894fca3790f6008e820d7627ee9afd57ccd7db288e"
+metafile = true
+
+[[files]]
 file = "mods/rpgdifficulty.pw.toml"
 hash = "f9301dee4de768b0974eaf4fcec2bcca53aab8a85ff2223e8b27d73112030f30"
 metafile = true
@@ -1638,6 +1713,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
+metafile = true
+
+[[files]]
+file = "mods/satin-free-wakes.pw.toml"
+hash = "8a84776fbe58b6affc2ac21e79abda3f6e08537e71fe1b8c257a94679e52c55c"
 metafile = true
 
 [[files]]
@@ -1843,11 +1923,6 @@ metafile = true
 [[files]]
 file = "mods/vulpine.pw.toml"
 hash = "30a10955b73952bf19cd7f3f1e334f1337f645d1f7ab7b9056819b5a4142f83e"
-metafile = true
-
-[[files]]
-file = "mods/wakes.pw.toml"
-hash = "a32e3ceef2af3a90ced4d9481acaa16c8e7aec17451e4c543f23d49069a1f6e6"
 metafile = true
 
 [[files]]

@@ -51,7 +51,9 @@
     "enchiridion:jousting",
     "enchiridion:experienced",
     "enchiridion:vaulting",
-    "executiveorders:execution"
+    "executiveorders:execution",
+    "spectrum:indestructible",
+    "spectrum:autosmelt"
     ],
   "invertedList": false,
   "overhaulEnchantingTable": "NON_TREASURE",

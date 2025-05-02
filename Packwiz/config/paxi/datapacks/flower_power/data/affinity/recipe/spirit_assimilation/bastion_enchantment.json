@@ -1,0 +1,60 @@
+{
+  "type": "affinity:spirit_assimilation",
+  "duration": 400,
+  "flux_cost_per_tick": 40,
+  "core_inputs": [
+    {
+      "item": "affinity:bare_resplendent_gem"
+    },
+    {
+      "item": "affinity:bare_resplendent_gem"
+    },
+    {
+      "item": "affinity:bare_resplendent_gem"
+    },
+    {
+      "item": "affinity:bare_resplendent_gem"
+    }
+  ],
+  "socle_inputs": [
+    {
+      "item": "mythicmetals:celestium_ingot"
+    },
+    {
+      "item": "affinity:scintillant_anthracite_blend"
+    },
+    {
+      "item": "affinity:vicious_wisp_matter"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "mythicmetals:metallurgium_ingot"
+    },
+    {
+      "item": "mythicmetals:metallurgium_ingot"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "affinity:vicious_wisp_matter"
+    },
+    {
+      "item": "affinity:scintillant_anthracite_blend"
+    }
+  ],
+  "output": {
+    "id": "affinity:resplendent_gem",
+    "count": 4,
+    "components": {
+      "minecraft:stored_enchantments": {
+        "affinity:bastion": 1
+      }
+    }
+  },
+  "entity": {
+    "id": "minecraft:ravager"
+  }
+}
