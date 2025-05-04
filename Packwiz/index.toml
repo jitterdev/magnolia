@@ -605,6 +605,30 @@ file = "config/paxi/datapacks/flower_power/data/pht/recipe/ancient_debris.json"
 hash = "32874aaf2eb158ba20ed0eb3bd861c2f4283f555b5a1d55edae15656de5782c8"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/aspen_infusion/citrine.json"
+hash = "c7f049fccd3ea79518c5585d29ab99cc022533143953843ce5667e9fd6cf80b4"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/aspen_infusion/clover.json"
+hash = "ef7a9922044c669cf5d02648819f65e3a0d15640f12b97d2ddcac136088575c6"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/aspen_infusion/moonstone.json"
+hash = "bea1970ceb33037acde6f9066666fb8dfd67cc16d22eeb6b0733140b2d46ffbb"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/aspen_infusion/onyx.json"
+hash = "37c53a472832b7eebe29e3ea2d19e76ba3965f32d7010ca16a372c63a198b640"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/aspen_infusion/reeds.json"
+hash = "8bfa926d2e18d9a0f482d6b898aac013da1867398629a0bbef6780ad34d41178"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/aspen_infusion/topaz.json"
+hash = "14a7d0fb196af530bfedbcf23a5276f4af56816be7cb25d4690de1b5f02ea39a"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/pht/recipe/carmot_staff_smithing_template.json"
 hash = "cb2a17b847eeac660f08dfa798691ffbb0ef45310bc82cf6003650506dedb008"
 
@@ -619,6 +643,18 @@ hash = "647aaef60be96086d3999a8a2526fa8d4ab8d65c631f2972ba20a886ca2d3ddd"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/shyvvtrials/enchantment/penetration.json"
 hash = "781439289f82916894b1851df86617141d26bb4b8a7b984798b704b3602850fb"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/spectrum/advancement/hidden/collect_shards/amethyst.json"
+hash = "01af3b22fb5afff8697194dafc6c2a0b9640664ef988cf8412c61527e486f47c"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/spectrum/advancement/hidden/collect_shards/citrine.json"
+hash = "5304da0b371a21c221c3bcd91ee8c8bf1224815b693f9f9b95a175a6ff862dd1"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/spectrum/advancement/hidden/collect_shards/topaz.json"
+hash = "bf63b8b43beb7fa947e8734e2c5c14a34cd208dda120b29d4be7ee7a194d6662"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/pack.mcmeta"

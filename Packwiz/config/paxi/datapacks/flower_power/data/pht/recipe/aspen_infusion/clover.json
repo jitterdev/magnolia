@@ -1,0 +1,20 @@
+{
+    "type": "affinity:aspen_infusion",
+    "primary_input": {
+      "item": "minecraft:short_grass"
+    },
+    "inputs": [
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        },
+        {
+            "item": "minecraft:lapis_lazuli"
+        }
+    ],
+    "output": {
+      "id": "spectrum:clover"
+    }
+  }

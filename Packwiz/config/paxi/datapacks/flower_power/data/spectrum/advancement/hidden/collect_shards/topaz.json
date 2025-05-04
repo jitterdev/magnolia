@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "has_topaz_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "spectrum:topaz_shard",
+              "spectrum:topaz_block"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
