@@ -609,6 +609,26 @@ file = "config/paxi/datapacks/flower_power/data/pht/recipe/carmot_staff_smithing
 hash = "cb2a17b847eeac660f08dfa798691ffbb0ef45310bc82cf6003650506dedb008"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/cutting/amaranth_bushel.json"
+hash = "c15ee5eeeeb43be4c0765efa91983b85b394ba06ddf681b2ef8fdf3a83afc910"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/cutting/citrine_block.json"
+hash = "af13fcecbdb748d9ba5eba73d093419bbe7dde1e26a0a4059ed67d4d3bb9b52d"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/cutting/moonstone_block.json"
+hash = "b2556864ab0b9336fab2d88df1e54dc4400c3905f3ba871ca42c2b22d39a5d86"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/cutting/onyx_block.json"
+hash = "3e4316e98a65ce40caa73281ab960be6b07749d04d4df1dd45f6275747eb35ec"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/cutting/topaz_block.json"
+hash = "1fb2935f22cd846ae42c2ee0c91c89fed37bdfe796af9af2fe749bacd2ca85c7"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/pht/recipe/orb_of_origin.json"
 hash = "2e61e87241ed1e27f55c91a5b33953751f37d9b5a28b9c382a52ca02ea5cf728"
 
