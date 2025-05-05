@@ -1383,6 +1383,11 @@ hash = "e8dc0874dbb057fc02eaa7dbe7d2321634400760ccfe63d265bf8bf6a353f14b"
 metafile = true
 
 [[files]]
+file = "mods/keybind-fix-plus.pw.toml"
+hash = "faf0d94299b6f7182e8a4d16b533c54e381f14a107834e024f7f9119c9e8626f"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "e55f2e523d1a56e7121ac213fabaf2a0913700cbb0447654a4a4cb052c5c7fef"
 metafile = true
@@ -1885,11 +1890,6 @@ metafile = true
 [[files]]
 file = "mods/titlescrolls.pw.toml"
 hash = "025cd6a787be8e421f021c92834bdefd5c4c174f04cb1421bf6ededdb456c071"
-metafile = true
-
-[[files]]
-file = "mods/too-many-shortcuts.pw.toml"
-hash = "bcec6528dcc915d58ccfc14540e03ca0db203806481a98b1f4720c6a93c2ef6c"
 metafile = true
 
 [[files]]
