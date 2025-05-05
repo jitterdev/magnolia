@@ -1717,11 +1717,6 @@ hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
 metafile = true
 
 [[files]]
-file = "mods/remnants.pw.toml"
-hash = "977388025eeb1c7355ca50bb6e147e21a8b328498dbf509ab4a7e0cf3185c5f1"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "cc4ceeb213e87e91028600ab7a0df13945f443da362aebcb000f1a7795c78906"
 metafile = true
@@ -1924,11 +1919,6 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "5266f479ada8def6f0913d79b57f1dbf52058df1690e3702a3a3608e6a80c796"
-metafile = true
-
-[[files]]
-file = "mods/trailier-tales.pw.toml"
-hash = "6f275fc4ad6625b6613c07a27d380f23baaaaf2a150296189478a08b8717a56a"
 metafile = true
 
 [[files]]
