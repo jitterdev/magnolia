@@ -101,6 +101,14 @@ file = "config/paxi/datapacks/flower_power/data/affinity/recipe/aspen_infusion/f
 hash = "04a7829e81c3f62b1fa2df937854026bd270163f97b011d7a9b8a472cc30dd37"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/aspen_infusion/kinesis_staff.json"
+hash = "1e05d4f03a8738d437678d28292a78e3c525f139a1e0bb8ed6ab54cc0ff78d27"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/affinity/recipe/aspen_infusion/salvo_staff.json"
+hash = "2dec2e107549fa6779ea44c75d4e24851fc5b8c7c06ce9bb495ac747b04ef84b"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/affinity/recipe/spirit_assimilation/bastion_enchantment.json"
 hash = "d2875a7e3a74eacc0549059e5cc5625324942e1f2374d27213d61f6f358572f7"
 
