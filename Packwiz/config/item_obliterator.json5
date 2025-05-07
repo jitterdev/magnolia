@@ -48,7 +48,9 @@
 
     "supplementaries:notice_board",
 
-    "spectrum:bottomless_bundle"
+    "spectrum:bottomless_bundle",
+
+    "executiveorders:monolith"
 
   ],
   // -----------------------------------------------------------

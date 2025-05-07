@@ -58,7 +58,7 @@ hash = "52676c32fa8db48a4010253bb35cc132c1cb57c68eb9c40643713aacdd0f2ce3"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "ff9c44e0eddb502292ded08256a85070dbbf8312d60bd341af9e926b9ac7781f"
+hash = "fe65118f805525bfeda1d56dd4a7e786f3ad206048ad83073f505933300fceb8"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -637,6 +637,10 @@ file = "config/paxi/datapacks/flower_power/data/pht/recipe/cutting/topaz_block.j
 hash = "1fb2935f22cd846ae42c2ee0c91c89fed37bdfe796af9af2fe749bacd2ca85c7"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/pht/recipe/netherite_ingot_from_netherite_block.json"
+hash = "0c52d73450960920670589c38937e7ac617782aa951abed43fdf147ccb59208f"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/pht/recipe/orb_of_origin.json"
 hash = "2e61e87241ed1e27f55c91a5b33953751f37d9b5a28b9c382a52ca02ea5cf728"
 
@@ -675,6 +679,22 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 [[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/enchancement/lang/en_us.json"
 hash = "e6de1f7c67271e7de2510bd5b6cb767b4b3e456e2a6965f65931b2b603368356"
+
+[[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/executiveorders/textures/block/monolith.png"
+hash = "3cda9a435e73c5569b76877941b335e4063cbf2fe2a31c50fc07ce05fb08985f"
+
+[[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/executiveorders/textures/block/monolith_side.png"
+hash = "5c49976aa7e038b3d7ebaa355a20c465871f44784b8809676b818f29820d9b70"
+
+[[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/executiveorders/textures/block/monolith_sided.png"
+hash = "5c49976aa7e038b3d7ebaa355a20c465871f44784b8809676b818f29820d9b70"
+
+[[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/executiveorders/textures/block/monolith_top.png"
+hash = "5c49976aa7e038b3d7ebaa355a20c465871f44784b8809676b818f29820d9b70"
 
 [[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/farmersdelight/textures/item/diamond_knife.png"
