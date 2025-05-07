@@ -1087,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-activity-tracker.pw.toml"
-hash = "6ebea57cbdab59bdce077f7a74616c858ef5bdd3c423e752a635ec4fb7926f29"
+hash = "cfbde77611646d0bbb09decd81c5529ee8022d4f0af5423474b500bae56b754c"
 metafile = true
 
 [[files]]
@@ -1207,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/does-it-tick.pw.toml"
-hash = "7e4744c1f8a5509b127f7e8c5f532409d07da1dae66bcf09b76261d2bef1ef1a"
+hash = "52366d24604dfe01c227ece189d2727047c64922beb31751879871ffad14a848"
 metafile = true
 
 [[files]]
@@ -1972,7 +1972,7 @@ metafile = true
 
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
-hash = "c3938f5880c285af2bf2f461b8181868033de9df29d03cada552ea6c31636d2b"
+hash = "8169a37b1bd584efa53d65fa26565d0e2888da486dfe5c7061960185de8dafed"
 metafile = true
 
 [[files]]
