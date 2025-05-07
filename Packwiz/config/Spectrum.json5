@@ -38,7 +38,8 @@
 	"ShootingStarWorlds": [
 		"minecraft:overworld",
 		"starry_skies:overworld",
-		"paradise_lost:paradise_lost"
+		"paradise_lost:paradise_lost",
+		"cerulean:skies"
 	],
 	// Worlds where lightning strikes can spawn Storm Stones
 	"StormStonesWorlds": [

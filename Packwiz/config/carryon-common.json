@@ -202,7 +202,9 @@
       "graveyard:*",
       "immersivepetroleum:*",
       "tardis:interior_door",
-      "cuffed:*"
+      "cuffed:*",
+      "farmersdelight:skillet",
+      "farmersdelight:cutting_board"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [

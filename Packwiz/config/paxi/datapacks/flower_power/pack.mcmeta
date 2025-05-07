@@ -1,6 +1,18 @@
 {
 	"pack": {
 		"description": "datapack for inflorescence",
-		"pack_format": 15
+		"pack_format": 48
+	},
+	"filter": {
+		"block": [
+			{
+				"namespace": "^repurposed_structures$",
+				"path": "^advancement/.*$"
+			},
+			{
+				"namespace": "^eroxified2$",
+				"path": "^advancement/core/.*$"
+			}
+		]
 	}
 }

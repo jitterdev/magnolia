@@ -1,13 +1,13 @@
 name = "Railed"
-filename = "railed-1.0.0.jar"
+filename = "railed-1.1.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Qk34XF22/versions/yZwZ3jwX/railed-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/Qk34XF22/versions/LyyEbEUP/railed-1.1.0%2B1.21.1.jar"
 hash-format = "sha1"
-hash = "122fc841bcd70f0f5caea0041cd22ff2eadac7dd"
+hash = "5fb136ab7a6c7c0cdea1da6f6f26b9ebbb08541a"
 
 [update]
 [update.modrinth]
 mod-id = "Qk34XF22"
-version = "yZwZ3jwX"
+version = "LyyEbEUP"

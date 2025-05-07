@@ -1,13 +1,13 @@
 name = "Florum Sporum"
-filename = "florum-sporum-1.6.0+1.21.1.jar"
+filename = "florum-sporum-1.7.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3KmV3g7F/versions/9r9ymTsB/florum-sporum-1.6.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/3KmV3g7F/versions/YG2vAYQF/florum-sporum-1.7.0%2B1.21.1.jar"
 hash-format = "sha1"
-hash = "c2a51868c258eb359362ba077006a721c4ec3c8d"
+hash = "b1de3586da1e27fdd78527faa139c895c542ffed"
 
 [update]
 [update.modrinth]
 mod-id = "3KmV3g7F"
-version = "9r9ymTsB"
+version = "YG2vAYQF"

@@ -1,13 +1,13 @@
 name = "YUNG's API"
-filename = "YungsApi-1.21.1-Fabric-5.1.4.jar"
+filename = "YungsApi-1.21.1-Fabric-5.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/kWoI0jki/YungsApi-1.21.1-Fabric-5.1.4.jar"
+url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/CbIBPwz2/YungsApi-1.21.1-Fabric-5.1.5.jar"
 hash-format = "sha1"
-hash = "40d610bd994cf3c969af7d9cad62a0851ed80f5d"
+hash = "5940f5089717d5a70346e497d346e9885ada2cdd"
 
 [update]
 [update.modrinth]
 mod-id = "Ua7DFN59"
-version = "kWoI0jki"
+version = "CbIBPwz2"

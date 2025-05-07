@@ -1,0 +1,9 @@
+{
+    "type": "cortex:anvil",
+    "addition": "minecraft:netherite_ingot",
+    "base": "farmersdelight:diamond_knife",
+    "result": {
+      "count": 1,
+      "id": "farmersdelight:netherite_knife"
+    }
+  }
