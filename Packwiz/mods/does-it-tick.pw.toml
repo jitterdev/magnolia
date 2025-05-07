@@ -1,6 +1,6 @@
 name = "Does It Tick?"
 filename = "does_it_tick-fabric-1.1.4-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vmg6jaPW/versions/1oufWQjb/does_it_tick-fabric-1.1.4-1.21.1.jar"

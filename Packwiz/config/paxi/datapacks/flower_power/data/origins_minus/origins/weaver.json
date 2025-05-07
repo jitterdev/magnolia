@@ -1,6 +1,5 @@
 {
 	"powers": [
-		"origins_minus:echolocation",
 		"origins_minus:rappel",
 		"origins:no_cobweb_slowdown",
         "pht:climbing"

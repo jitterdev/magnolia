@@ -570,7 +570,7 @@ hash = "b6e60edd1dceb78c7f0fbd7464e22ee6e0f2735e538f1931f227af5ca2424bd0"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/origins_minus/origins/weaver.json"
-hash = "dcb8b808518459e6a6337a8bc060e40f685971d0e607cf51ce6fbdd1a01e3250"
+hash = "789ef29d6752b6882e6adbdf662960e2714e62f9f752d571c7c39ce1807403ca"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/origins_minus/powers/carefree.json"
@@ -1987,7 +1987,7 @@ metafile = true
 
 [[files]]
 file = "mods/wcat.pw.toml"
-hash = "3d53685cee60d9a78ab587920f175113d96a493b205e0c7ba3e360ff6349653d"
+hash = "8b925fd57ad7114aad6790c6f87f2db41db38cacd349a4694d00a829cd26b2fc"
 metafile = true
 
 [[files]]
