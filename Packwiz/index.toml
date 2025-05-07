@@ -1471,8 +1471,8 @@ hash = "fc507838460a13ed09086854b06ce4579c1a9bb68a5615439d8c62579108ee42"
 metafile = true
 
 [[files]]
-file = "mods/keybind-fix-plus.pw.toml"
-hash = "faf0d94299b6f7182e8a4d16b533c54e381f14a107834e024f7f9119c9e8626f"
+file = "mods/keybind-fix-updated.pw.toml"
+hash = "5bc766930c9d931d1b14755eafa9d1f2abba2af635de6abe8457b95f3cdc4170"
 metafile = true
 
 [[files]]
