@@ -1100,6 +1100,11 @@ hash = "0df645936cda068a25c88c11eaf590a3ae72ebb6d5ac7028c743fcb4a152afdb"
 metafile = true
 
 [[files]]
+file = "mods/cerulean-advancements.pw.toml"
+hash = "5578e8c4558fd85e70f4819e664f6ca5acdf0ef73347346da8366a99277d8cde"
+metafile = true
+
+[[files]]
 file = "mods/cerulean.pw.toml"
 hash = "bfde3a1bb7473396d3ae50f8e788cca583f9a1a540d608a32933f9f9d6582564"
 metafile = true
@@ -1420,6 +1425,11 @@ hash = "52345ebb3005a84237949ed6edba48818f0ffa4435c9984a1853b867c2edb862"
 metafile = true
 
 [[files]]
+file = "mods/gputape.pw.toml"
+hash = "0284d017bbcb2219a777bd79dac6776d40fe8c5e8e81c1919587c6a51ea88dba"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "cbe2b4d3b946c2753432343196866e84f14c4c10ffc1f173a67cd59faed8af2d"
 metafile = true
@@ -1492,6 +1502,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "ef1c06f29396bdd54287d151f21dbc3bf2d8962775ac50844d00809dbfe50e99"
 metafile = true
 
 [[files]]
@@ -1612,6 +1627,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "89c1f8a8067f8b844a6c965e382e14c68e306510b949aee00772e3e2773956ec"
+metafile = true
+
+[[files]]
+file = "mods/mpalladium.pw.toml"
+hash = "bb601bbc12286468f444f4861bc1da5932963f8fa16e62aff1a27c5a7dd75056"
 metafile = true
 
 [[files]]
@@ -1982,6 +2002,11 @@ metafile = true
 [[files]]
 file = "mods/titlescrolls.pw.toml"
 hash = "025cd6a787be8e421f021c92834bdefd5c4c174f04cb1421bf6ededdb456c071"
+metafile = true
+
+[[files]]
+file = "mods/toadlib.pw.toml"
+hash = "7c6bcb8b5d292e3ff5d02364b19b11f3b61f38a3a1ce91bc552b7c5753d21c10"
 metafile = true
 
 [[files]]
