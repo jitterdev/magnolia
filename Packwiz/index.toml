@@ -1472,7 +1472,7 @@ metafile = true
 
 [[files]]
 file = "mods/keybind-fix-updated.pw.toml"
-hash = "5bc766930c9d931d1b14755eafa9d1f2abba2af635de6abe8457b95f3cdc4170"
+hash = "cea0c296a8c03d369f1822a408631f4fbbf611eb53b4316c3f70ddd9124421dc"
 metafile = true
 
 [[files]]
