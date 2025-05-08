@@ -701,6 +701,10 @@ file = "config/paxi/datapacks/flower_power/data/spectrum/advancement/hidden/coll
 hash = "bf63b8b43beb7fa947e8734e2c5c14a34cd208dda120b29d4be7ee7a194d6662"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/spectrum/advancement/unlocks/items/bottomless_bundle.json"
+hash = "e3c44885ba83a96319c48d91b577e8b08f7d1d594a278f96e96153edb2cbd0c5"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/pack.mcmeta"
 hash = "f792bff102ea706488d165f8767fcb614e93bae503776d21813585483ab187d0"
 
