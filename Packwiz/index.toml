@@ -210,7 +210,7 @@ hash = "0e303f092b81f9ba3e09a487770bd856d530f763debd38237d1106cb6a1afe7a"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/farmersdelight/recipe/netherite_knife_smithing.json"
-hash = "91b17e954e3ea9f1a20b137cd8ae7ecddaa99a3fe1cd736d13ca1c8daab077e7"
+hash = "67601f3291c02af5af97882dd95dcf446b8141d04f4d05a9fc3b2ca3c101ad00"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/marksman/tags/item/coin.json"
