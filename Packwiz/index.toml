@@ -6,7 +6,7 @@ hash = "0751ac0f3bcd4cb9aa7e16127ecb2123bf6774a1cfd81043f1d365f6663c3d9c"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "12396437263812df07b9e0c47f0546ed8eb8ef08306aacde6be961b74882c938"
+hash = "65acb19f741baae65313f479f12beb374393633cb7b6f09c59998af88e6d8d34"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -30,7 +30,7 @@ hash = "6278c7725a8a8b50343923c023f975b6d5696fa7bcb80251873baeb6701c8658"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "0ef698e6bf0d341bb30616e21ccd35fba22c70cbaf408d875150973176ff199b"
+hash = "aadbd50af8e737632f2fd0339ca20fd854c0b903c5bbc06069a5e62bae1b94a3"
 
 [[files]]
 file = "config/charmonium-client.toml"
@@ -453,6 +453,10 @@ file = "config/paxi/datapacks/flower_power/data/mythicmetals/advancement/celesti
 hash = "c46d808ae11c4fd489a7488d18b80df48408465dca8488c05934dae9f9da08cc"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/mythicmetals/advancement/hallowed.json"
+hash = "cfac370f74135dd29acaceebecc137f53d3fda51595b48d7685ae0efbf19acf0"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/mythicmetals/advancement/metallurgium.json"
 hash = "978002ac99cb4fc61a7e3b1d05964110a33c9137c09ab188c5123b1426c980be"
 
@@ -703,6 +707,10 @@ hash = "bf63b8b43beb7fa947e8734e2c5c14a34cd208dda120b29d4be7ee7a194d6662"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/spectrum/advancement/unlocks/items/bottomless_bundle.json"
 hash = "e3c44885ba83a96319c48d91b577e8b08f7d1d594a278f96e96153edb2cbd0c5"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/spectrum/recipe/titration_barrel/clotted_cream_fluid.json"
+hash = "506577424bf5522505238ab3409b46616e3d9678a5c78f3c75ff9e0deefb5a3a"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/pack.mcmeta"
@@ -1630,11 +1638,6 @@ hash = "89c1f8a8067f8b844a6c965e382e14c68e306510b949aee00772e3e2773956ec"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "bb601bbc12286468f444f4861bc1da5932963f8fa16e62aff1a27c5a7dd75056"
-metafile = true
-
-[[files]]
 file = "mods/mru.pw.toml"
 hash = "be1d890694662f5ef8f5eecb4cadc6204e404e48d28a100eac5cd8ce7f6c1cc4"
 metafile = true
@@ -2002,11 +2005,6 @@ metafile = true
 [[files]]
 file = "mods/titlescrolls.pw.toml"
 hash = "025cd6a787be8e421f021c92834bdefd5c4c174f04cb1421bf6ededdb456c071"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "7c6bcb8b5d292e3ff5d02364b19b11f3b61f38a3a1ce91bc552b7c5753d21c10"
 metafile = true
 
 [[files]]
