@@ -6,7 +6,7 @@ hash = "0751ac0f3bcd4cb9aa7e16127ecb2123bf6774a1cfd81043f1d365f6663c3d9c"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "65acb19f741baae65313f479f12beb374393633cb7b6f09c59998af88e6d8d34"
+hash = "a66509869b43e5378a8f05c7f54fa3dbdf8a70fb57774d3b0d12f605de877355"
 
 [[files]]
 file = "config/ambientsounds-client.json"
