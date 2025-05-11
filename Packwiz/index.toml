@@ -205,6 +205,10 @@ file = "config/paxi/datapacks/flower_power/data/enchancement/enchantment/gale.js
 hash = "cad94fe97bd0a8bc750f093435b5dc1006228f666dd30576476fe8e31c01669d"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/enchancement/enchantment/veil.json"
+hash = "1b314974051a72b4484e452632746da1058df6728498123fbd5b4b805a695f94"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/eroxified2/advancement/core/root.json"
 hash = "0e303f092b81f9ba3e09a487770bd856d530f763debd38237d1106cb6a1afe7a"
 
