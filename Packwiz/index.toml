@@ -237,6 +237,10 @@ file = "config/paxi/datapacks/flower_power/data/farmersdelight/recipe/netherite_
 hash = "67601f3291c02af5af97882dd95dcf446b8141d04f4d05a9fc3b2ca3c101ad00"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/heartymeals/tags/block/cozy_sources.json"
+hash = "68b93bb2b6dcc3cdf099df9f07f09816ef2d786c592f916994a2e4001d008dbf"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/marksman/tags/item/coin.json"
 hash = "0f2e036bad5825a1dd70258a4b6a287ddbb3388c90516eeaef22b8003bf371d5"
 
@@ -915,6 +919,10 @@ hash = "8d65916d55009b95df3520f2ccca91e9c4f798214113e831aa5804a263458108"
 [[files]]
 file = "config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
+file = "config/tt20/config.json"
+hash = "c106ddddf16ba9ebffebac748aa5b0589df842a1065807851d77cbb26be40564"
 
 [[files]]
 file = "config/universal-graves/config.json"
@@ -2123,6 +2131,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "c9652825f9cb65d2accfc03696868fc7c44e83f6bf03f62c39c3feaef3a59de1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "c05e2ea9138fc455c675a0bfa8119dd5606038c7af44c9463731105488650e80"
 metafile = true
 
 [[files]]
