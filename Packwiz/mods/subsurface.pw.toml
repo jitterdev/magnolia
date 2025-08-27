@@ -1,13 +1,13 @@
 name = "Subsurface"
-filename = "subsurface-1.0.2.jar"
+filename = "subsurface-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mGEL09gE/versions/7tLydftW/subsurface-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/mGEL09gE/versions/JdF0yLTy/subsurface-1.0.4.jar"
 hash-format = "sha1"
-hash = "4c3cf5304c62398e0d6f922280f8f01c97fbc2c4"
+hash = "ff564c58eed75d58d93e32093fa14711ba71c5ca"
 
 [update]
 [update.modrinth]
 mod-id = "mGEL09gE"
-version = "7tLydftW"
+version = "JdF0yLTy"

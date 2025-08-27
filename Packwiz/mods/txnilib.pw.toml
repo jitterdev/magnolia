@@ -1,13 +1,13 @@
 name = "TxniLib"
-filename = "txnilib-fabric-1.0.23-1.21.1.jar"
+filename = "txnilib-fabric-1.0.24-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vBbPDuOs/versions/B5sZWnOA/txnilib-fabric-1.0.23-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/vBbPDuOs/versions/98FHAlrc/txnilib-fabric-1.0.24-1.21.1.jar"
 hash-format = "sha1"
-hash = "5281b113e23534460a4d545b69d9fe8dcf27377c"
+hash = "95bd43012b414ce13efaba4b2fbd73dcd8951775"
 
 [update]
 [update.modrinth]
 mod-id = "vBbPDuOs"
-version = "B5sZWnOA"
+version = "98FHAlrc"

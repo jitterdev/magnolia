@@ -1,0 +1,13 @@
+name = "Clavis"
+filename = "Clavis-FABRIC-0.1.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y9Xnig6p/versions/hJP4NlI2/Clavis-FABRIC-0.1.3%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "4a5e3be3c01d1d48fd904c90e46301e352b7227d"
+
+[update]
+[update.modrinth]
+mod-id = "y9Xnig6p"
+version = "hJP4NlI2"

@@ -1,0 +1,13 @@
+name = "Default Components"
+filename = "default-components-1.0.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ReIHZWEq/versions/BOaV3Lqh/default-components-1.0.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "1d5754981cdf7615454d4927edd5f6d0e57b7ce8"
+
+[update]
+[update.modrinth]
+mod-id = "ReIHZWEq"
+version = "BOaV3Lqh"

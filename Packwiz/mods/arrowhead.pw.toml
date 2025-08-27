@@ -1,7 +1,0 @@
-name = "Arrowhead"
-filename = "Arrowhead-1.3.0+1.21.1.jar"
-
-[download]
-url = "https://raw.githubusercontent.com/jitterdev/magnolia/master/mods/Arrowhead-1.3.0+1.21.1.jar"
-hash-format = "sha256"
-hash = "5f70e69a57dfa50fd34ba56cc3b40a1109664f26d0e337f04fd4d7387dd46f79"

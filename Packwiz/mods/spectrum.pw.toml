@@ -1,7 +1,13 @@
-name = "spectrum"
-filename = "spectrum-1.8.4.jar"
+name = "Spectrum"
+filename = "spectrum-1.9.5.jar"
+side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/jitterdev/magnolia/master/mods/spectrum-1.8.4.jar"
-hash-format = "sha256"
-hash = "9598cb25d69479122df7e71d47c7da874e0d7ba874f14b4c064594bf3d551681"
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/cl32FO9p/spectrum-1.9.5.jar"
+hash-format = "sha1"
+hash = "b06907bbaaf95f5e0e6481469798936fd1b2e6b1"
+
+[update]
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "cl32FO9p"

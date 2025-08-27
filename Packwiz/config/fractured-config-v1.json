@@ -1,0 +1,20 @@
+{
+  "config": {
+    "generate_eyes_in_frames": true,
+    "stronghold_eye_chance": 5,
+    "abandoned_mineshaft_eye_chance": 0,
+    "desert_pyramid_eye_chance": 5,
+    "jungle_temple_eye_chance": 5,
+    "nether_fortress_eye_chance": 0,
+    "shipwreck_eye_chance": 5,
+    "igloo_eye_chance": 0,
+    "dungeon_eye_chance": 5,
+    "woodland_mansion_eye_chance": 10,
+    "pillager_outpost_eye_chance": 0,
+    "bastion_remnant_eye_chance": 5,
+    "ocean_ruins_eye_chance": 5,
+    "ruined_portal_eye_chance": 0,
+    "ancient_city_eye_chance": 5,
+    "buried_treasure_eye_chance": 10
+  }
+}

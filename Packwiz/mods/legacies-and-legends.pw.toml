@@ -1,13 +1,13 @@
 name = "Legacies and Legends"
-filename = "legacies-and-legends-1.21.1-v1.4.7.jar"
+filename = "legacies-and-legends-1.21.1-v1.4.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rJvxBgdw/versions/Po20VB1C/legacies-and-legends-1.21.1-v1.4.7.jar"
+url = "https://cdn.modrinth.com/data/rJvxBgdw/versions/3Ho0rztK/legacies-and-legends-1.21.1-v1.4.9.jar"
 hash-format = "sha1"
-hash = "ab396cbf6cf5ecf530a3a8c2e437922dc6c33429"
+hash = "9d72d4bb0ba4051c7484412b61d2e95a3b450736"
 
 [update]
 [update.modrinth]
 mod-id = "rJvxBgdw"
-version = "Po20VB1C"
+version = "3Ho0rztK"

@@ -1,13 +1,13 @@
 name = "MmmMmmMmmMmm"
-filename = "dummmmmmy-1.21-2.0.7-fabric.jar"
+filename = "dummmmmmy-1.21-2.0.9-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Adega8YN/versions/CSS3KuSz/dummmmmmy-1.21-2.0.7-fabric.jar"
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/WO6cRMMs/dummmmmmy-1.21-2.0.9-fabric.jar"
 hash-format = "sha1"
-hash = "34ed8e3515b1f032cdc851c748ff23a8d0094a0d"
+hash = "e3ac419225101e7f950de8b3b3655accd5831c24"
 
 [update]
 [update.modrinth]
 mod-id = "Adega8YN"
-version = "CSS3KuSz"
+version = "WO6cRMMs"

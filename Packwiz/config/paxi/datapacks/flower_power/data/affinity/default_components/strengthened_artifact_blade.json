@@ -1,0 +1,52 @@
+{
+  "add": {
+    "minecraft:attribute_modifiers": {
+      "modifiers": [
+        {
+          "id": "minecraft:base_attack_damage",
+          "type": "generic.attack_damage",
+          "amount": 11.0,
+          "operation": "add_value",
+          "slot": "mainhand"
+        },
+        {
+          "id": "minecraft:base_attack_speed",
+          "type": "generic.attack_speed",
+          "amount": -2.8,
+          "operation": "add_value",
+          "slot": "mainhand"
+        },
+        {
+          "id": "affinity:strengthened_blade_regen",
+          "type": "affinity:player.natural_aethum_regen_speed",
+          "amount": 0.35,
+          "operation": "add_multiplied_total",
+          "slot": "mainhand"
+        }
+      ]
+    },
+    "minecraft:max_stack_size": 1,
+    "minecraft:lore": [],
+    "minecraft:rarity": "rare",
+    "minecraft:repair_cost": 0,
+    "minecraft:max_damage": 1500,
+    "minecraft:enchantments": {
+      "levels": {}
+    },
+    "minecraft:damage": 0,
+    "minecraft:tool": {
+      "damage_per_block": 2,
+      "rules": [
+        {
+          "speed": 15.0,
+          "blocks": "minecraft:cobweb",
+          "correct_for_drops": true
+        },
+        {
+          "speed": 1.5,
+          "blocks": "#minecraft:sword_efficient"
+        }
+      ]
+    }
+  }
+}

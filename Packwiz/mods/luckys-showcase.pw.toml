@@ -1,0 +1,13 @@
+name = "Lucky's Showcase"
+filename = "luckysshowcase-fabric-1.21.1-21.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FWO9GQ2I/versions/Aw724gz4/luckysshowcase-fabric-1.21.1-21.1.0.jar"
+hash-format = "sha1"
+hash = "abad6b457b5a643d965ad6f4510a56e1da27f8b3"
+
+[update]
+[update.modrinth]
+mod-id = "FWO9GQ2I"
+version = "Aw724gz4"

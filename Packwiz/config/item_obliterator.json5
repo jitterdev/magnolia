@@ -28,6 +28,9 @@
     "!legacies_and_legends:ward_(?!ingot|block|nugget|anvil)[^/]+",
     "legacies_and_legends:ancient_knife",
 
+    "vanillabackport:music_disc_lava_chicken",
+    "vanillabackport:music_disc_tears",
+
     "!natures_spirit:.*cheese.*",
     "!natures_spirit:.*pizza.*",
     

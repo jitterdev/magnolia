@@ -1,0 +1,13 @@
+{
+  "add": {
+    "minecraft:attribute_modifiers": {
+        "modifiers": [
+            {
+                "id": "attack_speed",
+                "type": "generic.attack_speed",
+                "amount": -0.4,
+                "operation": "add_value"
+            }
+        ]
+    }
+}}
