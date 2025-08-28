@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "1016119afda38a8f962f1b7fb022ca3dffd872266aed71489af24be25c2662d3"
+hash = "49dda114f36e326a55dd186c88f3e57662be8766c24efa3ddd499607f93a456b"
 
 [[files]]
 file = "config/Spectrum.json5"
@@ -70,7 +70,7 @@ hash = "9e1f3b973713d512889e9575c8736a35314b96a1c58ce67085ed0cf3533aa592"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "b2effa5c91300b2dc3d0a6b5b6aef32dd8c7ec5d16c266bb5dc37d3b1f846a73"
+hash = "750c860c883f2bb736d90a0ccff6809bfceca9cd4d076b97fb67aae87631f152"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -238,7 +238,7 @@ hash = "67601f3291c02af5af97882dd95dcf446b8141d04f4d05a9fc3b2ca3c101ad00"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/heartymeals/tags/block/cozy_sources.json"
-hash = "68b93bb2b6dcc3cdf099df9f07f09816ef2d786c592f916994a2e4001d008dbf"
+hash = "e2d65739f612330944112a9d23053c01b343ebcaf87f4638fa6a6c8a40ae7ffb"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/marksman/tags/item/coin.json"

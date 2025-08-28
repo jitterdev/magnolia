@@ -60,7 +60,7 @@ _version = 3
 				# 
 				# 0.0: No fog. 
 				# 1.0: Fully opaque fog.
-				farFogMax = "1.0"
+				farFogMax = "0.75"
 				#
 				# Determines if fog is drawn on DH LODs.
 				enableDhFog = true
@@ -76,7 +76,7 @@ _version = 3
 				# 
 				# 0.0: No fog. 
 				# 1.0: Fully opaque fog.
-				farFogMin = "0.1"
+				farFogMin = "0.05"
 				#
 				# What color should fog use? 
 				# 
@@ -89,7 +89,7 @@ _version = 3
 				# LINEAR: Linear based on distance (will ignore 'density')
 				# EXPONENTIAL: 1/(e^(distance*density)) 
 				# EXPONENTIAL_SQUARED: 1/(e^((distance*density)^2)
-				farFogFalloff = "LINEAR"
+				farFogFalloff = "EXPONENTIAL_SQUARED"
 				#
 				# Used in conjunction with the Fog Falloff.
 				farFogDensity = "2.5"
@@ -165,3 +165,4 @@ _version = 3
 					# 0.0: Fog end with no offset.
 					# 1.0: Fog end with offset of the entire world's height. (Include depth)
 					heightFogEnd = "0.6"
+
