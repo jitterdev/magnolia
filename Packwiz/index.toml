@@ -845,6 +845,14 @@ file = "config/paxi/resourcepacks/flower_power/assets/natures_spirit/textures/bl
 hash = "56e0c01246b8a5af0d7dc1b0fc3fa6d760d32338e95cf30b4719c71a347f56e4"
 
 [[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/spectrum/textures/block/blackslag_diamond_ore.png"
+hash = "d1b20a7b6417be647733004539fc867ea6084cae6a061777b4b6f95eda1ab5b7"
+
+[[files]]
+file = "config/paxi/resourcepacks/flower_power/assets/spectrum/textures/block/blackslag_diamond_ore_top.png"
+hash = "7996b3870505a6b649a0c3dc5ec8abfa7a1522a3458fd28c8113598d98395036"
+
+[[files]]
 file = "config/paxi/resourcepacks/flower_power/assets/tiny-flowers/lang/en_us.json"
 hash = "d9b584db26433e09fb1b754cbc0dd728d7e7d810aace9d3a09fe92f64bce7b9e"
 
