@@ -974,7 +974,7 @@ hash = "710f4ae8546ec0b0b31c8f825140fda547717311148e18d091ad1d87cd4ddb35"
 
 [[files]]
 file = "configureddefaults/servers.dat"
-hash = "7e1f56cea3530d1292917890f23893a15c3b6de366512848de8e360f19696c10"
+hash = "83e373b4a49ea9ed356a0d4a2e7b4e5351fdea7a2c187f85bdb5801528eae949"
 
 [[files]]
 file = "mods/abandoned-villages.pw.toml"
