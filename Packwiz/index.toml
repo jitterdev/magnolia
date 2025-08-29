@@ -1587,11 +1587,6 @@ hash = "1cd05f225d532b48a29e63c45b165aab45175dcca13724f99a9185a39c61b0ce"
 metafile = true
 
 [[files]]
-file = "mods/lieutenant-by-typho.pw.toml"
-hash = "7b283b2f31999084e2d66e6900fded061bed4b86553970107c1e3c5ff5cf77e6"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "bcb99877e0d8940a9d7a09e9b595b6baf1928f040b25c3398c6358da13074e26"
 metafile = true
