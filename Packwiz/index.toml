@@ -1587,6 +1587,11 @@ hash = "1cd05f225d532b48a29e63c45b165aab45175dcca13724f99a9185a39c61b0ce"
 metafile = true
 
 [[files]]
+file = "mods/lieutenant-by-typho.pw.toml"
+hash = "7b283b2f31999084e2d66e6900fded061bed4b86553970107c1e3c5ff5cf77e6"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "bcb99877e0d8940a9d7a09e9b595b6baf1928f040b25c3398c6358da13074e26"
 metafile = true
@@ -1872,6 +1877,11 @@ hash = "b4e781ba1c0a7d7ad571981b487c946f39f59e28b115de54150ede0a31bf12ac"
 metafile = true
 
 [[files]]
+file = "mods/redirected.pw.toml"
+hash = "1a05919a1c5be40edbcd6e13d7bfe0b88d35ce66d6bed0d649bbebf7b161203d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
 metafile = true
@@ -2014,6 +2024,11 @@ metafile = true
 [[files]]
 file = "mods/subsurface.pw.toml"
 hash = "cfc7a28f498cb9db817c965e6856730b7fd58c2b1ef3ba0ce3f80a7158af81a5"
+metafile = true
+
+[[files]]
+file = "mods/super-fast-math.pw.toml"
+hash = "b6b11603b89b88b1e6771777695a316fb803a412a52feb267bfb88d728b18fdb"
 metafile = true
 
 [[files]]
